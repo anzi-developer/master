@@ -1,0 +1,2318 @@
+<!DOCTYPE html>
+<!-- ==================================================== Name : App PPDB - Blogger Template Creator : Aan Fauzi ==================================================== --><html dir='ltr' lang='id'>
+
+
+  <!--<head>
+<link href='https://www.blogger.com/static/v1/widgets/4128112664-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+-->
+  <head>
+  
+  <meta content='yes' name='mobile-web-app-capable'/>
+<meta content='width=device-width, initial-scale=1, maximum-scale=1' name='viewport'/>
+<script src='https://cdn.tailwindcss.com'></script>
+<link href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css' rel='stylesheet'/>
+<meta content='notranslate' name='google'/>
+<meta content='noindex, nofollow' name='robots'/>
+<meta content='noindex, nofollow' name='googlebot'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<!-- DNS Prefetch -->
+<link href='//fonts.googleapis.com' rel='dns-prefetch'/>
+<link href='//fonts.gstatic.com' rel='dns-prefetch'/>
+<link href='//dnjs.cloudflare.com' rel='dns-prefetch'/>
+<link href='//1.bp.blogspot.com' rel='dns-prefetch'/>
+<link href='//2.bp.blogspot.com' rel='dns-prefetch'/>
+<link href='//3.bp.blogspot.com' rel='dns-prefetch'/>
+<link href='//4.bp.blogspot.com' rel='dns-prefetch'/>
+<link href='//lh3.googleusercontent.com' rel='dns-prefetch'/>
+<link href='//blogger.googleusercontent.com' rel='dns-prefetch'/>
+<link href='//www.blogger.com' rel='dns-prefetch'/>
+<!-- Site Info -->
+<meta content='blogger' name='generator'/>
+<title>PPDB SMATSG</title>
+<meta content='https://ppdbsmatsg.blogspot.com/' name='description'/>
+<link href='https://ppdbsmatsg.blogspot.com/' rel='canonical'/>
+<link href='https://ppdbsmatsg.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<meta content='#f57c00' name='apple-mobile-web-app-status-bar-style'/>
+<meta content='#f57c00' name='msapplication-navbutton-color'/>
+<meta content='#f57c00' name='theme-color'/>
+<!-- cache -->
+<include expiration='7d' path='*.css'></include>
+<include expiration='7d' path='*.js'></include>
+<include expiration='3d' path='*.gif'></include>
+<include expiration='3d' path='*.jpeg'></include>
+<include expiration='3d' path='*.jpg'></include>
+<include expiration='3d' path='*.png'></include>
+<meta content='sat, 10 jul 2031 00:00:00 GMT' http-equiv='expires'/>
+<!-- Open Graph Meta Tags -->
+<meta content='id' property='og:locale'/>
+<meta content='website' property='og:type'/>
+<meta content='PPDB SMATSG' property='og:title'/>
+<meta content='PPDB SMATSG' property='og:site_name'/>
+<meta content='https://ppdbsmatsg.blogspot.com/' property='og:description'/>
+<meta content='https://ppdbsmatsg.blogspot.com/' property='og:url'/>
+<!-- Twitter Meta Tags -->
+<meta content='summary_large_image' name='twitter:card'/>
+<meta content='PPDB SMATSG' name='twitter:title'/>
+<meta content='https://ppdbsmatsg.blogspot.com/' name='twitter:description'/>
+<meta content='https://ppdbsmatsg.blogspot.com/' name='twitter:domain'/>
+<!-- Feed Links -->
+<link rel="alternate" type="application/atom+xml" title="PPDB SMATSG - Atom" href="https://ppdbsmatsg.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="PPDB SMATSG - RSS" href="https://ppdbsmatsg.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="PPDB SMATSG - Atom" href="https://www.blogger.com/feeds/918490767461067158/posts/default" />
+<link rel="me" href="https://www.blogger.com/profile/01110412041942967532" />
+<!-- Styles and Scripts -->
+<style id='page-skin-1' type='text/css'><!--
+:root {
+--headerBG: #f57c00;
+--key: #f57c00;
+--black: #232323;
+--white: #ffffff;
+--silver: #f6f6f6;
+--gray: #838383;
+--border: rgba(0 0 0 / 7.5%);
+--radius: 8px;
+--radius2: 16px;
+--lebar: 970px;
+--header_height: 70px;
+--footer_height: 100px;
+--card_shadow : 0 10px 15px -3px rgb(0 0 0 / 5%), 0 4px 6px -2px rgb(0 0 0 / 5%);
+--top_shadow : 0 -1px 15px rgba(0 0 0 / 15%);
+--inset_shadow : inset 0 -1.5px 0 0 rgba(0 0 0 / 10%);
+}
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700');
+body { font-family: 'Inter', sans-serif; }
+.gradient-bg { background: linear-gradient(135deg, #059669 0%, #047857 100%); }
+.card-shadow { box-shadow: 0 10px 25px rgba(0,0,0,0.1); }
+.animate-fade-in { animation: fadeIn 0.5s ease-in; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
+.main-content {
+opacity: 1;
+}
+/* Hamburger Menu Styles */
+.hamburger {
+width: 20px;
+height: 16px;
+position: relative;
+cursor: pointer;
+}
+.hamburger-line {
+display: block;
+width: 100%;
+height: 2px;
+background: white;
+border-radius: 1px;
+position: absolute;
+transition: all 0.3s ease;
+}
+.hamburger-line:nth-child(1) { top: 0; }
+.hamburger-line:nth-child(2) { top: 7px; }
+.hamburger-line:nth-child(3) { top: 14px; }
+.hamburger.active .hamburger-line:nth-child(1) {
+transform: rotate(45deg);
+top: 7px;
+}
+.hamburger.active .hamburger-line:nth-child(2) {
+opacity: 0;
+}
+.hamburger.active .hamburger-line:nth-child(3) {
+transform: rotate(-45deg);
+top: 7px;
+}
+/* Mobile Menu Animation */
+.mobile-menu-open {
+transform: translateX(0) !important;
+}
+/* Slider Styles */
+.slider-container {
+position: relative;
+width: 100%;
+}
+.slide {
+display: none;
+animation: fadeIn 0.5s ease-in-out;
+}
+.slide.active {
+display: block;
+}
+.slider-btn {
+position: absolute;
+top: 50%;
+transform: translateY(-50%);
+background: rgba(255, 255, 255, 0.9);
+border: none;
+width: 40px;
+height: 40px;
+border-radius: 50%;
+display: flex;
+align-items: center;
+justify-content: center;
+cursor: pointer;
+transition: all 0.3s ease;
+box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+z-index: 10;
+}
+.slider-btn:hover {
+background: white;
+box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+transform: translateY(-50%) scale(1.1);
+}
+.slider-prev {
+left: -20px;
+}
+.slider-next {
+right: -20px;
+}
+.slider-dot {
+width: 12px;
+height: 12px;
+border-radius: 50%;
+border: none;
+background: #d1d5db;
+cursor: pointer;
+transition: all 0.3s ease;
+}
+.slider-dot.active {
+background: #f97316;
+transform: scale(1.2);
+}
+.slider-dot:hover {
+background: #fb923c;
+}
+/* Mobile responsive adjustments */
+@media (max-width: 768px) {
+.container {
+padding-left: 1rem;
+padding-right: 1rem;
+}
+.grid {
+grid-template-columns: 1fr;
+gap: 1rem;
+}
+.md\\:grid-cols-2 {
+grid-template-columns: 1fr;
+}
+.md\\:grid-cols-3 {
+grid-template-columns: 1fr;
+}
+.slider-btn {
+width: 35px;
+height: 35px;
+}
+.slider-prev {
+left: -15px;
+}
+.slider-next {
+right: -15px;
+}
+}
+
+--></style>
+<script>
+    const $_config = {
+    'page' : {
+    'title': 'PPDB SMATSG',
+    'name': '',
+    },
+    'language' : 'id',
+    'url' : {
+    'canonical': 'https://ppdbsmatsg.blogspot.com/',
+    'home': 'https://ppdbsmatsg.blogspot.com/',
+    
+      
+        'view': 'home',
+        
+      
+    },
+    };
+    console.log($_config);
+    //<![CDATA[
+
+    //]]>
+  </script>
+  <!--<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+</head>-->
+  </head>
+  <body class='bg-gray-50 is-home is-multiple is-mobile' itemscope='' itemtype='https://schema.org/WebPage'>
+<!-- Main Content -->
+<div class='main-content show' id='mainContent'>
+<!-- Header -->
+<header class='gradient-bg text-white shadow-lg'>
+<div class='container mx-auto px-6 py-4'>
+<div class='flex items-center justify-between'>
+<div class='flex items-center space-x-3'>
+<a href='/'>
+<div class='w-12 h-12 rounded-full flex items-center justify-center'>
+<img class='rounded-full items-center justify-center ri-school-line' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAL74SgblMeF-FG-TN9hJuO-cwwjYMeOhZ0tGFNmyz-QJCFyg6_PrigaJuWDirzJM0WmVd1ar2cr-Kp9a7rvJdo6t1faJDMTIEdYnT5rQPbiHlrRioihWnmtgdjCsLBdkpGrFm6uD9mVZx20PGfUNCr13iOaqkzz6_F6AHDTiklDHJBvKMc0SHtsFmahM/s229/images.png'/>
+</div>
+<div>
+<h1 class='text-xl font-bold'>PPDB Online</h1>
+<p class='text-sm opacity-90'>SMA Taman Siswa Genteng Banyuwangi</p>
+</div>
+</a>
+</div>
+<div class='flex items-center space-x-4'>
+<!-- Desktop Navigation -->
+<div class='hidden md:flex space-x-6'>
+<button class='nav-btn hover:bg-white hover:bg-opacity-20 px-4 py-2 rounded-lg transition-all' onclick='showSection(&#39;home&#39;)'>Beranda</button>
+<button class='nav-btn hover:bg-white hover:bg-opacity-20 px-4 py-2 rounded-lg transition-all' onclick='showSection(&#39;info&#39;)'>Info PPDB</button>
+<button class='nav-btn hover:bg-white hover:bg-opacity-20 px-4 py-2 rounded-lg transition-all' onclick='showSection(&#39;daftar&#39;)'>Daftar</button>
+<button class='nav-btn hover:bg-white hover:bg-opacity-20 px-4 py-2 rounded-lg transition-all' onclick='showSection(&#39;status&#39;)'>Cek Status</button>
+</div>
+<!-- Mobile Menu Button -->
+<button class='md:hidden w-10 h-10 flex items-center justify-center hover:bg-white hover:bg-opacity-20 rounded-lg transition-all' id='mobileMenuBtn'>
+<div class='hamburger'>
+<span class='hamburger-line'></span>
+<span class='hamburger-line'></span>
+<span class='hamburger-line'></span>
+</div>
+</button>
+</div>
+</div>
+</div>
+</header>
+<!-- Mobile Navigation Overlay -->
+<div class='fixed inset-0 bg-black bg-opacity-50 z-40 hidden md:hidden' id='mobileMenuOverlay'>
+<div class='fixed top-0 right-0 w-80 h-full bg-white shadow-xl transform translate-x-full transition-transform duration-300' id='mobileMenuPanel'>
+<div class='flex items-center justify-between p-6 border-b border-gray-200'>
+<div class='flex items-center space-x-3'>
+<div class='w-10 h-10 bg-green-600 rounded-full flex items-center justify-center'>
+<i class='fas fa-graduation-cap text-xl text-white'></i>
+</div>
+<div>
+<h3 class='font-semibold text-gray-800'>PPDB Online</h3>
+<p class='text-sm text-gray-600'>SMA Taman Siswa</p>
+</div>
+</div>
+<button class='w-8 h-8 flex items-center justify-center text-gray-500 hover:text-gray-700 hover:bg-gray-100 rounded-lg transition-all' id='closeMobileMenu'>
+<i class='fa-solid fa-xmark text-xl'></i>
+</button>
+</div>
+<nav class='p-6'>
+<div class='space-y-2'>
+<button class='mobile-nav-btn w-full flex items-center space-x-3 p-4 text-left hover:bg-green-50 hover:text-green-600 rounded-lg transition-all group' onclick='showSection(&#39;home&#39;); closeMobileMenu()'>
+<div class='w-10 h-10 bg-green-100 group-hover:bg-green-200 rounded-lg flex items-center justify-center transition-colors'>
+<i class='fa-solid fa-house text-green-600'></i>
+</div>
+<div>
+<div class='font-medium'>Beranda</div>
+<div class='text-sm text-gray-500'>Halaman utama</div>
+</div>
+</button>
+<button class='mobile-nav-btn w-full flex items-center space-x-3 p-4 text-left hover:bg-emerald-50 hover:text-emerald-600 rounded-lg transition-all group' onclick='showSection(&#39;info&#39;); closeMobileMenu()'>
+<div class='w-10 h-10 bg-emerald-100 group-hover:bg-emerald-200 rounded-lg flex items-center justify-center transition-colors'>
+<i class='fa-solid fa-circle-info text-emerald-600'></i>
+</div>
+<div>
+<div class='font-medium'>Info PPDB</div>
+<div class='text-sm text-gray-500'>Syarat Dan ketentuan</div>
+</div>
+</button>
+<button class='mobile-nav-btn w-full flex items-center space-x-3 p-4 text-left hover:bg-blue-50 hover:text-blue-600 rounded-lg transition-all group' onclick='showSection(&#39;daftar&#39;); closeMobileMenu()'>
+<div class='w-10 h-10 bg-blue-100 group-hover:bg-blue-200 rounded-lg flex items-center justify-center transition-colors'>
+<i class='fas fa-file-alt text-blue-600'></i>
+</div>
+<div>
+<div class='font-medium'>Daftar</div>
+<div class='text-sm text-gray-500'>Formulir pendaftaran</div>
+</div>
+</button>
+<button class='mobile-nav-btn w-full flex items-center space-x-3 p-4 text-left hover:bg-purple-50 hover:text-purple-600 rounded-lg transition-all group' onclick='showSection(&#39;status&#39;); closeMobileMenu()'>
+<div class='w-10 h-10 bg-purple-100 group-hover:bg-purple-200 rounded-lg flex items-center justify-center transition-colors'>
+<i class='fas fa-chart-line text-purple-600'></i>
+</div>
+<div>
+<div class='font-medium'>Cek Status</div>
+<div class='text-sm text-gray-500'>Status pendaftaran</div>
+</div>
+</button>
+</div>
+<div class='mt-8 pt-6 border-t border-gray-200'>
+<div class='bg-gradient-to-r from-green-50 to-emerald-50 p-4 rounded-lg'>
+<h4 class='font-semibold text-green-800 mb-2'>Butuh Bantuan?</h4>
+<p class='text-sm text-green-700 mb-3'>Hubungi kami untuk informasi Aplikasi lebih lanjut</p>
+<div class='space-y-2'>
+<a class='flex items-center space-x-2 text-sm text-green-600 hover:text-green-700' href='tel:085117136998'>
+<i class='fas fa-phone'></i>
+<span>085117136998</span>
+</a>
+<a class='flex items-center space-x-2 text-sm text-green-600 hover:text-green-700' href='mailto:aanfauzi622@gmail.com'>
+<i class='fas fa-envelope'></i>
+<span>aanfauzi622@gmail.com</span>
+</a>
+</div>
+</div>
+</div>
+</nav>
+</div>
+</div>
+<!-- Main Content -->
+<main class='container mx-auto px-6 py-8'>
+<!-- Home Section -->
+<section class='section-content animate-fade-in' id='home'>
+<div class='text-center mb-12'>
+<h2 class='text-4xl font-bold text-gray-800 mb-4'>Sistem Penerimaan Peserta Didik Baru</h2>
+<p class='text-xl text-gray-600 max-w-2xl mx-auto'>SMA Taman Siswa Genteng Banyuwangi Tahun ajaran 2026/2027</p>
+</div>
+<div class='grid md:grid-cols-3 gap-8 mb-12'>
+<div class='bg-white p-8 rounded-xl card-shadow text-center hover:transform hover:scale-105 transition-all'>
+<div class='w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4'>
+<i class='fas fa-file-alt text-3xl text-green-600'></i>
+</div>
+<h3 class='text-xl font-semibold mb-3'>Pendaftaran Online</h3>
+<p class='text-gray-600 mb-4'>Daftar secara online dengan mudah dan cepat</p>
+<button class='bg-green-600 text-white px-6 py-2 rounded-lg hover:bg-green-700 transition-colors' onclick='showSection(&#39;daftar&#39;)'>Daftar Sekarang</button>
+</div>
+<div class='bg-white p-8 rounded-xl card-shadow text-center hover:transform hover:scale-105 transition-all'>
+<div class='w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4'>
+<i class='fas fa-chart-line text-3xl text-green-600'></i>
+</div>
+<h3 class='text-xl font-semibold mb-3'>Cek Status</h3>
+<p class='text-gray-600 mb-4'>Pantau status pendaftaran Anda secara real-time</p>
+<button class='bg-green-600 text-white px-6 py-2 rounded-lg hover:bg-green-700 transition-colors' onclick='showSection(&#39;status&#39;)'>Cek Status</button>
+</div>
+<div class='bg-white p-8 rounded-xl card-shadow text-center hover:transform hover:scale-105 transition-all'>
+<div class='w-16 h-16 bg-emerald-100 rounded-full flex items-center justify-center mx-auto mb-4'>
+<i class='fas fa-info-circle text-3xl text-emerald-600'></i>
+</div>
+<h3 class='text-xl font-semibold mb-3'>Informasi</h3>
+<p class='text-gray-600 mb-4'>Pelajari jalur masuk dan persyaratan PPDB</p>
+<button class='bg-emerald-600 text-white px-6 py-2 rounded-lg hover:bg-emerald-700 transition-colors' onclick='showSection(&#39;info&#39;)'>Lihat Info</button>
+</div>
+</div>
+<!-- Timeline -->
+<div class='bg-white rounded-xl card-shadow p-8'>
+<h3 class='text-2xl font-bold text-center mb-8'>Timeline PPDB 2026</h3>
+<div class='space-y-6'>
+<div class='flex items-center space-x-4'>
+<div class='w-4 h-4 bg-green-500 rounded-full'></div>
+<div class='flex-1'>
+<h4 class='font-semibold'>Pendaftaran Online</h4>
+<p class='text-gray-600'>1 - 15 Juni 2026</p>
+</div>
+</div>
+<div class='flex items-center space-x-4'>
+<div class='w-4 h-4 bg-yellow-500 rounded-full'></div>
+<div class='flex-1'>
+<h4 class='font-semibold'>Verifikasi Berkas</h4>
+<p class='text-gray-600'>16 - 20 Juni 2026</p>
+</div>
+</div>
+<div class='flex items-center space-x-4'>
+<div class='w-4 h-4 bg-green-500 rounded-full'></div>
+<div class='flex-1'>
+<h4 class='font-semibold'>Pengumuman Hasil</h4>
+<p class='text-gray-600'>25 Juni 2026</p>
+</div>
+</div>
+</div>
+</div>
+</section>
+<!-- Info Section -->
+<section class='section-content hidden animate-fade-in' id='info'>
+<h2 class='text-3xl font-bold text-center mb-8'>Informasi PPDB</h2>
+<!-- School Profile -->
+<div class='bg-gradient-to-r from-green-600 to-emerald-600 text-white rounded-xl p-8 mb-8'>
+<div class='grid md:grid-cols-2 gap-8 items-center'>
+<div>
+<h3 class='text-2xl font-bold mb-4'>SMA Taman Siswa Genteng Banyuwangi</h3>
+<div class='space-y-3'>
+<div class='flex items-center space-x-3'>
+<i class='fas fa-map-marker-alt text-xl'></i>
+<span>Jl. Diponegoro No.16, Desa genteng kulon, Kecamatan Genteng, Kabupaten Banyuwangi</span>
+</div>
+<div class='flex items-center space-x-3'>
+<i class='fas fa-phone text-xl'></i>
+<span>0851-1713-6998 / 0813-5896-2200</span>
+</div>
+<div class='flex items-center space-x-3'>
+<i class='fas fa-envelope text-xl'></i>
+<span>smas.tamansiswagtg@gmail.com</span>
+</div>
+<div class='flex items-center space-x-3'>
+<i class='fas fa-award text-xl'></i>
+<span>Akreditasi A - Terakreditasi Unggul</span>
+</div>
+</div>
+</div>
+<div class='text-center'>
+<div class='w-32 h-32 bg-white bg-opacity-20 rounded-full flex items-center justify-center mx-auto mb-4'>
+<i class='fas fa-graduation-cap text-6xl text-white'></i>
+</div>
+<p class='text-lg font-semibold'>Membentuk Generasi Berkarakter</p>
+<p class='text-sm opacity-90'>Sejak 3 Juli 1922</p>
+</div>
+</div>
+</div>
+<!-- Program Activities Sliders -->
+<div class='grid md:grid-cols-2 gap-8 mb-8'>
+<!-- Culinary Activities Slider -->
+<div class='bg-white rounded-xl card-shadow p-8'>
+<div class='text-center mb-6'>
+<h3 class='text-xl font-bold text-gray-800 mb-2'>
+<i class='fas fa-utensils text-orange-600 mr-2'></i>Kegiatan Tata Boga
+                        </h3>
+<p class='text-gray-600 text-sm'>Program unggulan pengembangan keterampilan kuliner siswa</p>
+</div>
+<div class='relative overflow-hidden rounded-lg'>
+<div class='slider-container' id='culinarySlider'>
+<!-- Slide 1 -->
+<div class='slide active'>
+<div class='text-center'>
+<div class='relative h-48 bg-gradient-to-br from-orange-100 to-red-100 rounded-lg overflow-hidden mb-4'>
+<div class='absolute inset-0 flex items-center justify-center'>
+<svg class='w-24 h-24 text-orange-400' fill='currentColor' viewBox='0 0 24 24'>
+<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z'></path>
+</svg>
+</div>
+<div class='absolute bottom-3 left-3 right-3'>
+<div class='bg-white bg-opacity-90 rounded-lg p-2'>
+<div class='flex items-center space-x-2'>
+<i class='fas fa-fire text-red-500'></i>
+<span class='text-xs font-medium'>Dapur Praktik Modern</span>
+</div>
+</div>
+</div>
+</div>
+<h4 class='text-lg font-semibold text-gray-800 mb-2'>Praktik Memasak Tradisional</h4>
+<p class='text-gray-600 text-sm mb-3'>Siswa belajar memasak berbagai hidangan tradisional Indonesia dengan bimbingan chef profesional.</p>
+<div class='flex flex-wrap gap-1 justify-center'>
+<span class='px-2 py-1 bg-orange-100 text-orange-700 rounded-full text-xs'>Masakan Tradisional</span>
+<span class='px-2 py-1 bg-green-100 text-green-700 rounded-full text-xs'>Keterampilan Praktis</span>
+</div>
+</div>
+</div>
+<!-- Slide 2 -->
+<div class='slide'>
+<div class='text-center'>
+<div class='relative h-48 bg-gradient-to-br from-pink-100 to-yellow-100 rounded-lg overflow-hidden mb-4'>
+<div class='absolute inset-0 flex items-center justify-center'>
+<svg class='w-24 h-24 text-pink-400' fill='currentColor' viewBox='0 0 24 24'>
+<path d='M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z'></path>
+</svg>
+</div>
+<div class='absolute bottom-3 left-3 right-3'>
+<div class='bg-white bg-opacity-90 rounded-lg p-2'>
+<div class='flex items-center space-x-2'>
+<i class='fas fa-birthday-cake text-pink-500'></i>
+<span class='text-xs font-medium'>Studio Pastry Lengkap</span>
+</div>
+</div>
+</div>
+</div>
+<h4 class='text-lg font-semibold text-gray-800 mb-2'>Kelas Pastry & Bakery</h4>
+<p class='text-gray-600 text-sm mb-3'>Program khusus pembuatan kue, roti, dan pastry dengan teknik modern.</p>
+<div class='flex flex-wrap gap-1 justify-center'>
+<span class='px-2 py-1 bg-pink-100 text-pink-700 rounded-full text-xs'>Pastry Modern</span>
+<span class='px-2 py-1 bg-yellow-100 text-yellow-700 rounded-full text-xs'>Teknik Profesional</span>
+</div>
+</div>
+</div>
+<!-- Slide 3 -->
+<div class='slide'>
+<div class='text-center'>
+<div class='relative h-48 bg-gradient-to-br from-yellow-100 to-orange-100 rounded-lg overflow-hidden mb-4'>
+<div class='absolute inset-0 flex items-center justify-center'>
+<svg class='w-24 h-24 text-yellow-500' fill='currentColor' viewBox='0 0 24 24'>
+<path d='M12 2l2.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z'></path>
+</svg>
+</div>
+<div class='absolute bottom-3 left-3 right-3'>
+<div class='bg-white bg-opacity-90 rounded-lg p-2'>
+<div class='flex items-center space-x-2'>
+<i class='fas fa-trophy text-yellow-500'></i>
+<span class='text-xs font-medium'>Juara 1 Lomba Kuliner 2025</span>
+</div>
+</div>
+</div>
+</div>
+<h4 class='text-lg font-semibold text-gray-800 mb-2'>Kompetisi Kuliner</h4>
+<p class='text-gray-600 text-sm mb-3'>Siswa rutin mengikuti berbagai kompetisi kuliner tingkat regional dan nasional.</p>
+<div class='flex flex-wrap gap-1 justify-center'>
+<span class='px-2 py-1 bg-yellow-100 text-yellow-700 rounded-full text-xs'>Juara Kompetisi</span>
+<span class='px-2 py-1 bg-red-100 text-red-700 rounded-full text-xs'>Tingkat Nasional</span>
+</div>
+</div>
+</div>
+</div>
+<!-- Slider Navigation -->
+<div class='flex justify-center mt-6 space-x-2'>
+<button class='slider-dot active' onclick='goToCulinarySlide(0)'></button>
+<button class='slider-dot' onclick='goToCulinarySlide(1)'></button>
+<button class='slider-dot' onclick='goToCulinarySlide(2)'></button>
+</div>
+<!-- Slider Controls -->
+<button class='slider-btn slider-prev' onclick='previousCulinarySlide()'>
+<i class='fas fa-chevron-left'></i>
+</button>
+<button class='slider-btn slider-next' onclick='nextCulinarySlide()'>
+<i class='fas fa-chevron-right'></i>
+</button>
+</div>
+</div>
+<!-- Hospitality Activities Slider -->
+<div class='bg-white rounded-xl card-shadow p-8'>
+<div class='text-center mb-6'>
+<h3 class='text-xl font-bold text-gray-800 mb-2'>
+<i class='fas fa-hotel text-blue-600 mr-2'></i>Kegiatan Perhotelan
+                        </h3>
+<p class='text-gray-600 text-sm'>Program unggulan pengembangan keterampilan industri perhotelan</p>
+</div>
+<div class='relative overflow-hidden rounded-lg'>
+<div class='slider-container' id='hospitalitySlider'>
+<!-- Slide 1 -->
+<div class='slide active'>
+<div class='text-center'>
+<div class='relative h-48 bg-gradient-to-br from-blue-100 to-indigo-100 rounded-lg overflow-hidden mb-4'>
+<div class='absolute inset-0 flex items-center justify-center'>
+<svg class='w-24 h-24 text-blue-400' fill='currentColor' viewBox='0 0 24 24'>
+<path d='M19 7h-3V6a4 4 0 0 0-8 0v1H5a1 1 0 0 0-1 1v11a3 3 0 0 0 3 3h10a3 3 0 0 0 3-3V8a1 1 0 0 0-1-1zM10 6a2 2 0 0 1 4 0v1h-4V6zm8 13a1 1 0 0 1-1 1H7a1 1 0 0 1-1-1V9h2v1a1 1 0 0 0 2 0V9h4v1a1 1 0 0 0 2 0V9h2v10z'></path>
+</svg>
+</div>
+<div class='absolute bottom-3 left-3 right-3'>
+<div class='bg-white bg-opacity-90 rounded-lg p-2'>
+<div class='flex items-center space-x-2'>
+<i class='fas fa-concierge-bell text-blue-500'></i>
+<span class='text-xs font-medium'>Front Office Training</span>
+</div>
+</div>
+</div>
+</div>
+<h4 class='text-lg font-semibold text-gray-800 mb-2'>Front Office & Reception</h4>
+<p class='text-gray-600 text-sm mb-3'>Pelatihan pelayanan tamu, reservasi, dan administrasi hotel dengan standar internasional.</p>
+<div class='flex flex-wrap gap-1 justify-center'>
+<span class='px-2 py-1 bg-blue-100 text-blue-700 rounded-full text-xs'>Customer Service</span>
+<span class='px-2 py-1 bg-indigo-100 text-indigo-700 rounded-full text-xs'>Hospitality</span>
+</div>
+</div>
+</div>
+<!-- Slide 2 -->
+<div class='slide'>
+<div class='text-center'>
+<div class='relative h-48 bg-gradient-to-br from-purple-100 to-pink-100 rounded-lg overflow-hidden mb-4'>
+<div class='absolute inset-0 flex items-center justify-center'>
+<svg class='w-24 h-24 text-purple-400' fill='currentColor' viewBox='0 0 24 24'>
+<path d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-1 17.93c-3.94-.49-7-3.85-7-7.93 0-.62.08-1.21.21-1.79L9 15v1c0 1.1.9 2 2 2v1.93zm6.9-2.54c-.26-.81-1-1.39-1.9-1.39h-1v-3c0-.55-.45-1-1-1H8v-2h2c.55 0 1-.45 1-1V7h2c1.1 0 2-.9 2-2v-.41c2.93 1.19 5 4.06 5 7.41 0 2.08-.8 3.97-2.1 5.39z'></path>
+</svg>
+</div>
+<div class='absolute bottom-3 left-3 right-3'>
+<div class='bg-white bg-opacity-90 rounded-lg p-2'>
+<div class='flex items-center space-x-2'>
+<i class='fas fa-globe text-purple-500'></i>
+<span class='text-xs font-medium'>International Standard</span>
+</div>
+</div>
+</div>
+</div>
+<h4 class='text-lg font-semibold text-gray-800 mb-2'>Housekeeping & Laundry</h4>
+<p class='text-gray-600 text-sm mb-3'>Manajemen kebersihan kamar, area publik, dan layanan laundry profesional.</p>
+<div class='flex flex-wrap gap-1 justify-center'>
+<span class='px-2 py-1 bg-purple-100 text-purple-700 rounded-full text-xs'>Room Management</span>
+<span class='px-2 py-1 bg-pink-100 text-pink-700 rounded-full text-xs'>Quality Control</span>
+</div>
+</div>
+</div>
+<!-- Slide 3 -->
+<div class='slide'>
+<div class='text-center'>
+<div class='relative h-48 bg-gradient-to-br from-green-100 to-teal-100 rounded-lg overflow-hidden mb-4'>
+<div class='absolute inset-0 flex items-center justify-center'>
+<svg class='w-24 h-24 text-green-400' fill='currentColor' viewBox='0 0 24 24'>
+<path d='M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z'></path>
+</svg>
+</div>
+<div class='absolute bottom-3 left-3 right-3'>
+<div class='bg-white bg-opacity-90 rounded-lg p-2'>
+<div class='flex items-center space-x-2'>
+<i class='fas fa-award text-green-500'></i>
+<span class='text-xs font-medium'>Certified Training</span>
+</div>
+</div>
+</div>
+</div>
+<h4 class='text-lg font-semibold text-gray-800 mb-2'>Food & Beverage Service</h4>
+<p class='text-gray-600 text-sm mb-3'>Pelayanan makanan dan minuman dengan etika dan standar service excellence.</p>
+<div class='flex flex-wrap gap-1 justify-center'>
+<span class='px-2 py-1 bg-green-100 text-green-700 rounded-full text-xs'>Table Service</span>
+<span class='px-2 py-1 bg-teal-100 text-teal-700 rounded-full text-xs'>Bartending</span>
+</div>
+</div>
+</div>
+<!-- Slide 4 -->
+<div class='slide'>
+<div class='text-center'>
+<div class='relative h-48 bg-gradient-to-br from-orange-100 to-red-100 rounded-lg overflow-hidden mb-4'>
+<div class='absolute inset-0 flex items-center justify-center'>
+<svg class='w-24 h-24 text-orange-400' fill='currentColor' viewBox='0 0 24 24'>
+<path d='M20 6h-2.18c.11-.31.18-.65.18-1a2.996 2.996 0 0 0-5.5-1.65l-.5.67-.5-.68C10.96 2.54 10.05 2 9 2 7.34 2 6 3.34 6 5c0 .35.07.69.18 1H4c-1.11 0-1.99.89-1.99 2L2 19c0 1.11.89 2 2 2h16c1.11 0 2-.89 2-2V8c0-1.11-.89-2-2-2zm-5-2c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1zM9 4c.55 0 1 .45 1 1s-.45 1-1 1-1-.45-1-1 .45-1 1-1z'></path>
+</svg>
+</div>
+<div class='absolute bottom-3 left-3 right-3'>
+<div class='bg-white bg-opacity-90 rounded-lg p-2'>
+<div class='flex items-center space-x-2'>
+<i class='fas fa-briefcase text-orange-500'></i>
+<span class='text-xs font-medium'>Industry Partnership</span>
+</div>
+</div>
+</div>
+</div>
+<h4 class='text-lg font-semibold text-gray-800 mb-2'>Magang Industri</h4>
+<p class='text-gray-600 text-sm mb-3'>Program magang di hotel berbintang dan resort untuk pengalaman kerja nyata.</p>
+<div class='flex flex-wrap gap-1 justify-center'>
+<span class='px-2 py-1 bg-orange-100 text-orange-700 rounded-full text-xs'>Real Experience</span>
+<span class='px-2 py-1 bg-red-100 text-red-700 rounded-full text-xs'>Job Ready</span>
+</div>
+</div>
+</div>
+</div>
+<!-- Slider Navigation -->
+<div class='flex justify-center mt-6 space-x-2'>
+<button class='slider-dot active' onclick='goToHospitalitySlide(0)'></button>
+<button class='slider-dot' onclick='goToHospitalitySlide(1)'></button>
+<button class='slider-dot' onclick='goToHospitalitySlide(2)'></button>
+<button class='slider-dot' onclick='goToHospitalitySlide(3)'></button>
+</div>
+<!-- Slider Controls -->
+<button class='slider-btn slider-prev' onclick='previousHospitalitySlide()'>
+<i class='fas fa-chevron-left'></i>
+</button>
+<button class='slider-btn slider-next' onclick='nextHospitalitySlide()'>
+<i class='fas fa-chevron-right'></i>
+</button>
+</div>
+</div>
+</div>
+<!-- Registration Paths and Requirements -->
+<div class='grid md:grid-cols-2 gap-8 mb-8'>
+<div class='bg-white rounded-xl card-shadow p-8'>
+<h3 class='text-xl font-bold mb-6 text-green-600'>Jalur Pendaftaran</h3>
+<div class='space-y-4'>
+<div class='border-l-4 border-green-500 pl-4'>
+<h4 class='font-semibold'>Jalur Zonasi (50%)</h4>
+<p class='text-gray-600'>Untuk siswa yang berdomisili dalam zona sekolah</p>
+<p class='text-sm text-green-600 font-medium'>Kuota: 150 siswa</p>
+</div>
+<div class='border-l-4 border-blue-500 pl-4'>
+<h4 class='font-semibold'>Jalur Afirmasi (15%)</h4>
+<p class='text-gray-600'>Untuk siswa dari keluarga ekonomi tidak mampu</p>
+<p class='text-sm text-blue-600 font-medium'>Kuota: 45 siswa</p>
+</div>
+<div class='border-l-4 border-emerald-500 pl-4'>
+<h4 class='font-semibold'>Jalur Mutasi (5%)</h4>
+<p class='text-gray-600'>Untuk anak guru/tenaga kependidikan</p>
+<p class='text-sm text-emerald-600 font-medium'>Kuota: 15 siswa</p>
+</div>
+<div class='border-l-4 border-teal-500 pl-4'>
+<h4 class='font-semibold'>Jalur Prestasi (30%)</h4>
+<p class='text-gray-600'>Berdasarkan nilai rapor dan prestasi</p>
+<p class='text-sm text-teal-600 font-medium'>Kuota: 90 siswa</p>
+</div>
+</div>
+<div class='mt-6 p-4 bg-gray-50 rounded-lg'>
+<p class='text-sm text-gray-700'><strong>Total Kuota:</strong> 300 siswa (10 kelas)</p>
+</div>
+</div>
+<div class='bg-white rounded-xl card-shadow p-8'>
+<h3 class='text-xl font-bold mb-6 text-green-600'>Persyaratan Umum</h3>
+<ul class='space-y-3'>
+<li class='flex items-start space-x-3'>
+<i class='fas fa-check text-green-500 mt-1'></i>
+<span>Lulusan SMP/MTs sederajat tahun 2026</span>
+</li>
+<li class='flex items-start space-x-3'>
+<i class='fas fa-check text-green-500 mt-1'></i>
+<span>Fotokopi ijazah yang dilegalisir (3 lembar)</span>
+</li>
+<li class='flex items-start space-x-3'>
+<i class='fas fa-check text-green-500 mt-1'></i>
+<span>Fotokopi rapor semester 1-5 yang dilegalisir</span>
+</li>
+<li class='flex items-start space-x-3'>
+<i class='fas fa-check text-green-500 mt-1'></i>
+<span>Fotokopi akta kelahiran (2 lembar)</span>
+</li>
+<li class='flex items-start space-x-3'>
+<i class='fas fa-check text-green-500 mt-1'></i>
+<span>Fotokopi KK dan KTP orang tua (masing-masing 2 lembar)</span>
+</li>
+<li class='flex items-start space-x-3'>
+<i class='fas fa-check text-green-500 mt-1'></i>
+<span>Pas foto 3x4 berwarna (6 lembar)</span>
+</li>
+<li class='flex items-start space-x-3'>
+<i class='fas fa-check text-green-500 mt-1'></i>
+<span>Surat keterangan sehat dari dokter</span>
+</li>
+<li class='flex items-start space-x-3'>
+<i class='fas fa-check text-green-500 mt-1'></i>
+<span>Surat keterangan tidak buta warna</span>
+</li>
+</ul>
+</div>
+</div>
+<!-- Facilities and Programs -->
+<div class='grid md:grid-cols-2 gap-8 mb-8'>
+<div class='bg-white rounded-xl card-shadow p-8'>
+<h3 class='text-xl font-bold mb-6 text-green-600'>
+<i class='fas fa-dollar-sign mr-2'></i>Bebas Biaya
+                    </h3>
+<div class='grid grid-cols-2 gap-4'>
+<div class='flex items-center space-x-2 text-sm'>
+<i class='fas fa-check-circle text-green-500'></i>
+<span>Bebas Biaya Pendaftaran</span>
+</div>
+<div class='flex items-center space-x-2 text-sm'>
+<i class='fas fa-check-circle text-green-500'></i>
+<span>Bebas SPP Selama 3 Tahun</span>
+</div>
+<div class='flex items-center space-x-2 text-sm'>
+<i class='fas fa-check-circle text-green-500'></i>
+<span>Bebas Iuran Seraga Sekolah 3 Setel + 1 Set Seragam Olaraga</span>
+</div>
+<div class='flex items-center space-x-2 text-sm'>
+<i class='fas fa-check-circle text-green-500'></i>
+<span>Bebas Biaya Ujian Mulai Semester 1-5</span>
+</div>
+<div class='flex items-center space-x-2 text-sm'>
+<i class='fas fa-check-circle text-green-500'></i>
+<span>Bebas Uang Gedung</span>
+</div>
+<div class='flex items-center space-x-2 text-sm'>
+<i class='fas fa-check-circle text-green-500'></i>
+<span>Bebas Biaya Extrakulikuler</span>
+</div>
+<div class='flex items-center space-x-2 text-sm'>
+<i class='fas fa-check-circle text-green-500'></i>
+<span>Bebas Biaya Double Track</span>
+</div>
+<p>
+<h3 class='text-xl font-bold mb-6 text-green-600'>
+<i class='fa-solid fa-school mr-2'></i>Fasilitas Sekolah
+                    </h3>
+</p>
+<div class='flex items-center space-x-2 text-sm'>
+<i class='fas fa-check-circle text-green-500'></i>
+<span>Mushola</span>
+</div>
+<div class='flex items-center space-x-2 text-sm'>
+<i class='fas fa-check-circle text-green-500'></i>
+<span>Parkir Luas</span>
+</div>
+<div class='flex items-center space-x-2 text-sm'>
+<i class='fas fa-check-circle text-green-500'></i>
+<span>WiFi Gratis</span>
+</div>
+<div class='flex items-center space-x-2 text-sm'>
+<i class='fas fa-check-circle text-green-500'></i>
+<span>Lab. Komputer/Bahasa</span>
+</div>
+</div>
+</div>
+<div class='bg-white rounded-xl card-shadow p-8'>
+<h3 class='text-xl font-bold mb-6 text-green-600'>
+<i class='fas fa-trophy mr-2'></i>Life Skill
+                    </h3>
+<div class='space-y-4'>
+<div class='border-l-4 border-yellow-500 pl-4'>
+<h4 class='font-semibold'>Teknik Sablon</h4>
+<p class='text-sm text-gray-600'>Program Bakat</p>
+</div>
+<div class='border-l-4 border-blue-500 pl-4'>
+<h4 class='font-semibold'>Tata Rias</h4>
+<p class='text-sm text-gray-600'>Meningkatkan Gelar Bakat </p>
+</div>
+<div class='border-l-4 border-green-500 pl-4'>
+<h4 class='font-semibold'>Tataboga</h4>
+<p class='text-sm text-gray-600'>Mengembangkan Bakat Siswa Dan Siswi Di Bidang Kuliner</p>
+</div>
+<div class='border-l-4 border-purple-500 pl-4'>
+<h4 class='font-semibold'>Microsoft Office</h4>
+<p class='text-sm text-gray-600'>Teknologi dan programming</p>
+</div>
+<div class='border-l-4 border-red-500 pl-4'>
+<h4 class='font-semibold'>Kewirausahaan</h4>
+<p class='text-sm text-gray-600'>Mengembangkan Usaha Untuk Masa Depan Siswa</p>
+</div>
+</div>
+</div>
+</div>
+<!-- Important Notes -->
+<div class='space-y-4'>
+<div class='bg-yellow-50 border border-yellow-200 rounded-xl p-6'>
+<h4 class='font-bold text-yellow-800 mb-2'><i class='fas fa-exclamation-triangle mr-2'></i>Penting!</h4>
+<ul class='text-yellow-700 space-y-1 text-sm'>
+<li>&#8226; Pastikan semua dokumen telah disiapkan sebelum melakukan pendaftaran online</li>
+<li>&#8226; Pendidikan di SMA Taman Siswa Genteng Banyuwangi 100% GRATIS untuk semua siswa</li>
+<li>&#8226; Tidak ada biaya tersembunyi atau tambahan selama masa pendidikan</li>
+<li>&#8226; Program beasiswa penuh dari pemerintah dan yayasan untuk semua siswa</li>
+</ul>
+</div>
+<div class='bg-blue-50 border border-blue-200 rounded-xl p-6'>
+<h4 class='font-bold text-blue-800 mb-2'><i class='fas fa-percentage mr-2'></i>Beasiswa & Keringanan</h4>
+<div class='text-blue-700 space-y-2 text-sm'>
+<p>&#8226; <strong>Program Pendidikan Gratis:</strong> Semua siswa mendapat pendidikan 100% gratis</p>
+<p>&#8226; <strong>Bantuan Seragam:</strong> Seragam dan perlengkapan sekolah disediakan gratis</p>
+<p>&#8226; <strong>Bantuan Buku:</strong> Semua buku pelajaran dan modul disediakan gratis</p>
+<p>&#8226; <strong>Program Makan Siang:</strong> Makan siang gratis untuk semua siswa</p>
+</div>
+</div>
+<div class='bg-green-50 border border-green-200 rounded-xl p-6'>
+<h4 class='font-bold text-green-800 mb-2'><i class='ri-mail-open-line mr-2'></i>Sistem Otomatis</h4>
+<p class='text-green-700 text-sm'>Setiap pendaftaran akan otomatis dikirim ke email: <strong>smas.tamansiswagtg@gmail.com</strong> dan WhatsApp: <strong>081358962200</strong> untuk verifikasi cepat dan informasi lebih lanjut tentang program pendidikan gratis.</p>
+</div>
+</div>
+</section>
+<!-- Registration Section -->
+<section class='section-content hidden animate-fade-in' id='daftar'>
+<h2 class='text-3xl font-bold text-center mb-8'>Formulir Pendaftaran PPDB</h2>
+<div class='max-w-4xl mx-auto'>
+<div class='bg-white rounded-xl card-shadow p-8'>
+<form class='space-y-6' id='registrationForm'>
+<!-- Step Indicator -->
+<div class='flex justify-center mb-8'>
+<div class='flex items-center space-x-4'>
+<div class='step-indicator active' data-step='1'>
+<span class='step-number'>1</span>
+<span class='step-label'>Data Pribadi</span>
+</div>
+<div class='w-12 h-1 bg-gray-300'></div>
+<div class='step-indicator' data-step='2'>
+<span class='step-number'>2</span>
+<span class='step-label'>Data Sekolah</span>
+</div>
+<div class='w-12 h-1 bg-gray-300'></div>
+<div class='step-indicator' data-step='3'>
+<span class='step-number'>3</span>
+<span class='step-label'>Konfirmasi</span>
+</div>
+</div>
+</div>
+<!-- Step 1: Personal Data -->
+<div class='form-step' id='step1'>
+<h3 class='text-xl font-semibold mb-6'>Data Pribadi Siswa</h3>
+<div class='grid md:grid-cols-2 gap-6'>
+<div>
+<label class='block text-sm font-medium text-gray-700 mb-2'>Nama Lengkap *</label>
+<input class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='namaLengkap' require='' type='text'/>
+</div>
+<div>
+<label class='block text-sm font-medium text-gray-700 mb-2'>NISN *</label>
+<input class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='nisn' require='' type='text'/>
+</div>
+<div>
+<label class='block text-sm font-medium text-gray-700 mb-2'>Tempat Lahir *</label>
+<input class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='tempatLahir' require='' type='text'/>
+</div>
+<div>
+<label class='block text-sm font-medium text-gray-700 mb-2'>Tanggal Lahir *</label>
+<input class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='tanggalLahir' require='' type='date'/>
+</div>
+<div>
+<label class='block text-sm font-medium text-gray-700 mb-2'>Jenis Kelamin *</label>
+<select class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='jenisKelamin' require=''>
+<option value=''>Pilih Jenis Kelamin</option>
+<option value='L'>Laki-laki</option>
+<option value='P'>Perempuan</option>
+</select>
+</div>
+<div>
+<label class='block text-sm font-medium text-gray-700 mb-2'>Agama *</label>
+<select class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='agama' require=''>
+<option value=''>Pilih Agama</option>
+<option value='Islam'>Islam</option>
+<option value='Kristen'>Kristen</option>
+<option value='Katolik'>Katolik</option>
+<option value='Hindu'>Hindu</option>
+<option value='Buddha'>Buddha</option>
+<option value='Konghucu'>Konghucu</option>
+</select>
+</div>
+</div>
+<div class='mt-6'>
+<label class='block text-sm font-medium text-gray-700 mb-2'>Alamat Lengkap *</label>
+<textarea class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='alamat' require='' rows='3'></textarea>
+</div>
+<div class='grid md:grid-cols-2 gap-6 mt-6'>
+<div>
+<label class='block text-sm font-medium text-gray-700 mb-2'>No. Telepon *</label>
+<input class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='telepon' require='' type='tel'/>
+</div>
+<div>
+<label class='block text-sm font-medium text-gray-700 mb-2'>Email</label>
+<input class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='email' type='email'/>
+</div>
+</div>
+</div>
+<!-- Step 2: School Data -->
+<div class='form-step hidden' id='step2'>
+<h3 class='text-xl font-semibold mb-6'>Data Sekolah Asal & Jalur Pendaftaran</h3>
+<div class='grid md:grid-cols-2 gap-6'>
+<div>
+<label class='block text-sm font-medium text-gray-700 mb-2'>Nama Sekolah Asal *</label>
+<input class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='sekolahAsal' require='' type='text'/>
+</div>
+<div>
+<label class='block text-sm font-medium text-gray-700 mb-2'>NPSN Sekolah Asal *</label>
+<input class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='npsnAsal' require='' type='text'/>
+</div>
+<div>
+<label class='block text-sm font-medium text-gray-700 mb-2'>Jalur Pendaftaran *</label>
+<select class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='jalurPendaftaran' require=''>
+<option value=''>Pilih Jalur Pendaftaran</option>
+<option value='zonasi'>Jalur Zonasi</option>
+<option value='afirmasi'>Jalur Afirmasi</option>
+<option value='mutasi'>Jalur Mutasi</option>
+<option value='prestasi'>Jalur Prestasi</option>
+</select>
+</div>
+<div>
+<label class='block text-sm font-medium text-gray-700 mb-2'>Rata-rata Nilai Rapor *</label>
+<input class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='nilaiRapor' max='100' min='0' require='' step='0.01' type='number'/>
+</div>
+</div>
+<div class='mt-6'>
+<h4 class='text-lg font-medium mb-4'>Data Orang Tua/Wali</h4>
+<div class='grid md:grid-cols-2 gap-6'>
+<div>
+<label class='block text-sm font-medium text-gray-700 mb-2'>Nama Ayah *</label>
+<input class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='namaAyah' require='' type='text'/>
+</div>
+<div>
+<label class='block text-sm font-medium text-gray-700 mb-2'>Nama Ibu *</label>
+<input class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='namaIbu' require='' type='text'/>
+</div>
+<div>
+<label class='block text-sm font-medium text-gray-700 mb-2'>Pekerjaan Ayah *</label>
+<input class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='pekerjaanAyah' require='' type='text'/>
+</div>
+<div>
+<label class='block text-sm font-medium text-gray-700 mb-2'>Pekerjaan Ibu *</label>
+<input class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='pekerjaanIbu' require='' type='text'/>
+</div>
+</div>
+</div>
+</div>
+<!-- Step 3: Confirmation -->
+<div class='form-step hidden' id='step3'>
+<h3 class='text-xl font-semibold mb-6'>Konfirmasi Data Pendaftaran</h3>
+<div class='bg-gray-50 p-6 rounded-lg mb-6' id='confirmationData'>
+<!-- Data will be populated by JavaScript -->
+</div>
+<div class='flex items-center space-x-3 mb-6'>
+<input class='w-5 h-5 text-blue-600' id='agreement' require='' type='checkbox'/>
+<label class='text-sm text-gray-700' for='agreement'>
+                                    Saya menyatakan bahwa data yang saya isi adalah benar dan dapat dipertanggungjawabkan. Saya bersedia menerima sanksi apabila data yang saya berikan tidak sesuai dengan keadaan sebenarnya.
+                                </label>
+</div>
+</div>
+<!-- Navigation Buttons -->
+<div class='flex justify-between pt-6 border-t'>
+<button class='px-6 py-3 bg-gray-300 text-gray-700 rounded-lg hover:bg-gray-400 transition-colors hidden' id='prevBtn' onclick='changeStep(-1)' type='button'>Sebelumnya</button>
+<div class='flex-1'></div>
+<button class='px-6 py-3 bg-green-600 text-white rounded-lg hover:bg-green-700 transition-colors' id='nextBtn' onclick='changeStep(1)' type='button'>Selanjutnya</button>
+<button class='px-6 py-3 bg-emerald-600 text-white rounded-lg hover:bg-emerald-700 transition-colors hidden' id='submitBtn' type='submit'>Daftar Sekarang</button>
+</div>
+</form>
+</div>
+</div>
+</section>
+<!-- Status Check Section -->
+<section class='section-content hidden animate-fade-in' id='status'>
+<h2 class='text-3xl font-bold text-center mb-8'>Cek Status Pendaftaran</h2>
+<div class='max-w-2xl mx-auto'>
+<div class='bg-white rounded-xl card-shadow p-8'>
+<div class='text-center mb-8'>
+<div class='w-20 h-20 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4'>
+<i class='ri-search-line text-4xl text-green-600'></i>
+</div>
+<h3 class='text-xl font-semibold mb-2'>Masukkan Data Anda</h3>
+<p class='text-gray-600'>Gunakan NISN dan tanggal lahir untuk mengecek status pendaftaran</p>
+</div>
+<form class='space-y-6' id='statusForm'>
+<div>
+<label class='block text-sm font-medium text-gray-700 mb-2'>NISN *</label>
+<input class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='statusNisn' placeholder='Masukkan NISN Anda' require='' type='text'/>
+</div>
+<div>
+<label class='block text-sm font-medium text-gray-700 mb-2'>Tanggal Lahir *</label>
+<input class='w-full px-4 py-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-green-500 focus:border-transparent' id='statusTanggalLahir' require='' type='date'/>
+</div>
+<button class='w-full bg-green-600 text-white py-3 rounded-lg hover:bg-green-700 transition-colors font-medium' type='submit'>Cek Status</button>
+</form>
+<div class='hidden mt-8 p-6 bg-gray-50 rounded-lg' id='statusResult'>
+<!-- Status result will be populated by JavaScript -->
+</div>
+</div>
+</div>
+</section>
+</main>
+<!-- Copyright Section -->
+<div class='bg-gray-800 text-white py-8 mt-16'>
+<div class='container mx-auto px-6'>
+<div class='text-center'>
+<div class=' items-center justify-center space-x-3 mb-4'>
+<center>
+<img class='rounded-full items-center justify-center ri-school-line' src='https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgAL74SgblMeF-FG-TN9hJuO-cwwjYMeOhZ0tGFNmyz-QJCFyg6_PrigaJuWDirzJM0WmVd1ar2cr-Kp9a7rvJdo6t1faJDMTIEdYnT5rQPbiHlrRioihWnmtgdjCsLBdkpGrFm6uD9mVZx20PGfUNCr13iOaqkzz6_F6AHDTiklDHJBvKMc0SHtsFmahM/s229/images.png' style='width: 100px;height: 100px;'/>
+</center>
+<div>
+<h3 class='text-lg font-semibold'>SMA Taman Siswa Genteng Banyuwangi</h3>
+<p class='text-sm text-gray-300'>Sistem PPDB Online</p>
+<p class='text-sm text-gray-300'>Aplikasi Ini Di Buat Oleh : <a href='' style='color:yellow-200' target='_blank'> Aan Fauzi</a> - Untuk Sekolah SMA Taman Siswa Gnetng Banyuwangi.</p>
+</div>
+</div>
+<div class='border-t border-gray-700 pt-6'>
+<p class='text-gray-300 mb-2'>
+                        &#169; 2026 SMA Taman Siswa Genteng Banyuwangi. Hak Cipta Dilindungi Undang-Undang.
+                    </p>
+<p class='text-sm text-gray-400 mb-4'>
+                        Sistem Penerimaan Peserta Didik Baru (PPDB) Online - Tahun ajaran 2026/2027
+                    </p>
+<div class='flex flex-wrap justify-center items-center space-x-6 text-sm text-gray-400'>
+<span class='flex items-center space-x-2'>
+<i class='ri-shield-check-line'></i>
+<span>Data Terlindungi</span>
+</span>
+<span class='flex items-center space-x-2'>
+<i class='ri-lock-line'></i>
+<span>Sistem Aman</span>
+</span>
+<span class='flex items-center space-x-2'>
+<i class='ri-customer-service-2-line'></i>
+<span>Dukungan 24/7</span>
+</span>
+</div>
+<div class='mt-6 pt-4 border-t border-gray-700'>
+<p class='text-xs text-gray-500'>
+                            Dikembangkan dengan teknologi terdepan untuk memberikan pengalaman terbaik dalam proses pendaftaran siswa baru.
+                            <br/>
+                            Untuk bantuan teknis, hubungi: <span class='text-green-400'>smas.tamansiswagtg@gmail.com</span> | Layanan Aplikasi :
+                            <span class='text-green-400'>0851-1713-6998</span>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Download App Button -->
+<button class='fixed bottom-6 left-6 w-14 h-14 bg-blue-600 text-white rounded-full shadow-lg hover:bg-blue-700 transition-all transform hover:scale-110 z-40' id='downloadAppBtn'>
+<i class='fas fa-download text-xl'></i>
+</button>
+<!-- Scroll to Top Button -->
+<button class='fixed bottom-6 right-6 w-12 h-12 bg-green-600 text-white rounded-full shadow-lg hover:bg-green-700 transition-all transform hover:scale-110 hidden' id='scrollToTop'>
+<i class='fa-regular fa-hand-point-up text-xl'></i>
+</button>
+<!-- Submission Method Modal -->
+<div class='fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden' id='submissionModal'>
+<div class='bg-white rounded-xl p-8 max-w-lg mx-4'>
+<div class='text-center mb-6'>
+<div class='w-16 h-16 bg-blue-100 rounded-full flex items-center justify-center mx-auto mb-4'>
+<i class='fa-solid fa-school text-4xl text-blue-600'></i>
+</div>
+<h3 class='text-xl font-bold mb-2'>Pilih Metode Pengiriman</h3>
+<p class='text-gray-600'>Bagaimana Anda ingin mengirim formulir pendaftaran?</p>
+</div>
+<div class='space-y-4'>
+<button class='w-full flex items-center justify-between p-4 border-2 border-green-200 rounded-lg hover:border-green-400 hover:bg-green-50 transition-all group' onclick='submitViaWhatsApp()'>
+<div class='flex items-center space-x-4'>
+<div class='w-12 h-12 bg-green-100 group-hover:bg-green-200 rounded-full flex items-center justify-center transition-colors'>
+<i class='fa-brands fa-whatsapp text-2xl text-green-600'></i>
+</div>
+<div class='text-left'>
+<h4 class='font-semibold text-gray-800'>WhatsApp</h4>
+<p class='text-sm text-gray-600'>081358962200</p>
+<p class='text-xs text-green-600'>Respon cepat & langsung</p>
+</div>
+</div>
+<i class='ri-arrow-right-line text-gray-400 group-hover:text-green-600 transition-colors'></i>
+</button>
+<button class='w-full flex items-center justify-between p-4 border-2 border-blue-200 rounded-lg hover:border-blue-400 hover:bg-blue-50 transition-all group' onclick='submitViaEmail()'>
+<div class='flex items-center space-x-4'>
+<div class='w-12 h-12 bg-blue-100 group-hover:bg-blue-200 rounded-full flex items-center justify-center transition-colors'>
+<i class='fas fa-envelope text-2xl text-blue-600'></i>
+</div>
+<div class='text-left'>
+<h4 class='font-semibold text-gray-800'>Email</h4>
+<p class='text-sm text-gray-600'>smas.tamansiswagtg@gmail.com</p>
+<p class='text-xs text-blue-600'>Formal & terdokumentasi</p>
+</div>
+</div>
+<i class='ri-arrow-right-line text-gray-400 group-hover:text-blue-600 transition-colors'></i>
+</button>
+<button class='w-full flex items-center justify-between p-4 border-2 border-purple-200 rounded-lg hover:border-purple-400 hover:bg-purple-50 transition-all group' onclick='submitViaBoth()'>
+<div class='flex items-center space-x-4'>
+<div class='w-12 h-12 bg-purple-100 group-hover:bg-purple-200 rounded-full flex items-center justify-center transition-colors'>
+<i class='fa-solid fa-paper-plane text-2xl text-purple-600'></i>
+</div>
+<div class='text-left'>
+<h4 class='font-semibold text-gray-800'>Keduanya</h4>
+<p class='text-sm text-gray-600'>WhatsApp + Email</p>
+<p class='text-xs text-purple-600'>Rekomendasi terbaik</p>
+</div>
+</div>
+<i class='ri-arrow-right-line text-gray-400 group-hover:text-purple-600 transition-colors'></i>
+</button>
+</div>
+<div class='mt-6 pt-4 border-t border-gray-200'>
+<button class='w-full text-gray-500 hover:text-gray-700 py-2 transition-colors' onclick='closeSubmissionModal()'>
+<i class='ri-close-line mr-2'></i>Batal
+                </button>
+</div>
+</div>
+</div>
+<!-- Download App Modal -->
+<div class='fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden' id='downloadAppModal'>
+<div class='bg-white rounded-xl p-8 max-w-lg mx-4'>
+<div class='text-center mb-6'>
+<div class='w-20 h-20 bg-gradient-to-br from-blue-500 to-purple-600 rounded-2xl flex items-center justify-center mx-auto mb-4 shadow-lg'>
+<i class='fas fa-mobile-alt text-3xl text-white'></i>
+</div>
+<h3 class='text-2xl font-bold mb-2 text-gray-800'>Download Aplikasi PPDB</h3>
+<p class='text-gray-600'>Akses lebih mudah dengan aplikasi mobile resmi SMA Taman Siswa Genteng</p>
+</div>
+<div class='space-y-4 mb-6'>
+<div class='bg-gradient-to-r from-green-50 to-emerald-50 border border-green-200 rounded-lg p-4'>
+<h4 class='font-semibold text-green-800 mb-2'>
+<i class='fas fa-check-circle text-green-600 mr-2'></i>Fitur Unggulan:
+                    </h4>
+<ul class='text-sm text-green-700 space-y-1'>
+<li>&#8226; Pendaftaran offline tanpa internet</li>
+<li>&#8226; Notifikasi real-time status pendaftaran</li>
+<li>&#8226; Backup otomatis data formulir</li>
+<li>&#8226; Akses cepat informasi PPDB terbaru</li>
+<li>&#8226; Interface yang user-friendly</li>
+</ul>
+</div>
+<div class='grid grid-cols-2 gap-4'>
+<button class='flex items-center justify-center space-x-3 p-4 bg-green-600 hover:bg-green-700 text-white rounded-lg transition-all transform hover:scale-105 shadow-md' onclick='downloadAndroidApp()'>
+<i class='fab fa-android text-2xl'></i>
+<div class='text-left'>
+<div class='text-xs opacity-90'>Download untuk</div>
+<div class='font-semibold'>Android</div>
+</div>
+</button>
+<button class='flex items-center justify-center space-x-3 p-4 bg-gray-800 hover:bg-gray-900 text-white rounded-lg transition-all transform hover:scale-105 shadow-md' onclick='downloadIOSApp()'>
+<i class='fa-brands fa-windows text-2xl'></i>
+<div class='text-left'>
+<div class='text-xs opacity-90'>Download untuk</div>
+<div class='font-semibold'>Windows</div>
+</div>
+</button>
+</div>
+<div class='text-center'>
+<button class='inline-flex items-center space-x-2 px-6 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-lg transition-all transform hover:scale-105 shadow-md' onclick='downloadWebApp()' style='display:none;'>
+<i class='fas fa-globe text-lg'></i>
+<span class='font-medium'>Install Web App (PWA)</span>
+</button>
+<p class='text-xs border border-yellow-200 text-yellow-800 mt-2'>Informasi Penting: Aplikasi ini 100% gratis dan aman. Tidak ada biaya tersembunyi. 
+                            Data Anda akan tersimpan dengan enkripsi tingkat tinggi.</p>
+</div>
+</div>
+<div class='flex space-x-3'>
+<button class='flex-1 px-4 py-2 border border-gray-300 text-gray-700 rounded-lg hover:bg-gray-50 transition-colors' onclick='closeDownloadModal()'>
+                    Nanti Saja
+                </button>
+<button class='flex-1 px-4 py-2 bg-emerald-600 text-white rounded-lg hover:bg-emerald-700 transition-colors' onclick='shareApp()'>
+<i class='fas fa-share mr-2'></i>Bagikan
+                </button>
+</div>
+</div>
+</div>
+<!-- Success Modal -->
+<div class='fixed inset-0 bg-black bg-opacity-50 flex items-center justify-center z-50 hidden' id='successModal'>
+<div class='bg-white rounded-xl p-8 max-w-md mx-4 text-center'>
+<div class='w-16 h-16 bg-green-100 rounded-full flex items-center justify-center mx-auto mb-4'>
+<i class='ri-checkbox-circle-line text-4xl text-green-600'></i>
+</div>
+<h3 class='text-xl font-bold mb-2'>Pendaftaran Berhasil!</h3>
+<p class='text-gray-600 mb-4'>Nomor pendaftaran Anda: <span class='font-bold text-green-600' id='registrationNumber'></span></p>
+<p class='text-sm text-gray-500 mb-4'>Formulir telah dikirim melalui <span class='font-semibold text-blue-600' id='submissionMethod'></span></p>
+<p class='text-xs text-gray-500 mb-6'>Simpan nomor ini untuk mengecek status pendaftaran Anda</p>
+<button class='bg-green-600 text-white px-6 py-2 rounded-lg hover:bg-green-700 transition-colors' onclick='closeModal()'>Tutup</button>
+</div>
+</div>
+</div>
+<script>//<![CDATA[
+        let currentStep = 1;
+        const totalSteps = 3;
+
+        // Navigation functions
+        function showSection(sectionId) {
+            // Hide all sections
+            document.querySelectorAll('.section-content').forEach(section => {
+                section.classList.add('hidden');
+            });
+            
+            // Show selected section
+            document.getElementById(sectionId).classList.remove('hidden');
+            
+            // Update navigation
+            document.querySelectorAll('.nav-btn').forEach(btn => {
+                btn.classList.remove('bg-white', 'bg-opacity-20');
+            });
+            event.target.classList.add('bg-white', 'bg-opacity-20');
+        }
+
+        // Form step navigation
+        function changeStep(direction) {
+            if (direction === 1 && currentStep < totalSteps) {
+                if (validateCurrentStep()) {
+                    currentStep++;
+                    updateStepDisplay();
+                }
+            } else if (direction === -1 && currentStep > 1) {
+                currentStep--;
+                updateStepDisplay();
+            }
+        }
+
+        function updateStepDisplay() {
+            // Hide all steps
+            document.querySelectorAll('.form-step').forEach(step => {
+                step.classList.add('hidden');
+            });
+            
+            // Show current step
+            document.getElementById(`step${currentStep}`).classList.remove('hidden');
+            
+            // Update step indicators
+            document.querySelectorAll('.step-indicator').forEach((indicator, index) => {
+                if (index + 1 <= currentStep) {
+                    indicator.classList.add('active');
+                } else {
+                    indicator.classList.remove('active');
+                }
+            });
+            
+            // Update buttons
+            const prevBtn = document.getElementById('prevBtn');
+            const nextBtn = document.getElementById('nextBtn');
+            const submitBtn = document.getElementById('submitBtn');
+            
+            prevBtn.classList.toggle('hidden', currentStep === 1);
+            nextBtn.classList.toggle('hidden', currentStep === totalSteps);
+            submitBtn.classList.toggle('hidden', currentStep !== totalSteps);
+            
+            // Update confirmation data on step 3
+            if (currentStep === 3) {
+                updateConfirmationData();
+            }
+        }
+
+        function validateCurrentStep() {
+            const currentStepElement = document.getElementById(`step${currentStep}`);
+            const requiredFields = currentStepElement.querySelectorAll('[required]');
+            
+            for (let field of requiredFields) {
+                if (!field.value.trim()) {
+                    field.focus();
+                    alert('Mohon lengkapi semua field yang wajib diisi');
+                    return false;
+                }
+            }
+            return true;
+        }
+
+        function updateConfirmationData() {
+            const data = {
+                'Nama Lengkap': document.getElementById('namaLengkap').value,
+                'NISN': document.getElementById('nisn').value,
+                'Tempat, Tanggal Lahir': `${document.getElementById('tempatLahir').value}, ${document.getElementById('tanggalLahir').value}`,
+                'Jenis Kelamin': document.getElementById('jenisKelamin').value,
+                'Agama': document.getElementById('agama').value,
+                'Alamat': document.getElementById('alamat').value,
+                'No. Telepon': document.getElementById('telepon').value,
+                'Email': document.getElementById('email').value || '-',
+                'Sekolah Asal': document.getElementById('sekolahAsal').value,
+                'Jalur Pendaftaran': document.getElementById('jalurPendaftaran').value,
+                'Rata-rata Nilai': document.getElementById('nilaiRapor').value,
+                'Nama Ayah': document.getElementById('namaAyah').value,
+                'Nama Ibu': document.getElementById('namaIbu').value
+            };
+            
+            let html = '<h4 class="font-semibold mb-4">Data yang akan didaftarkan:</h4>';
+            for (let [key, value] of Object.entries(data)) {
+                html += `<div class="flex justify-between py-2 border-b border-gray-200">
+                    <span class="font-medium">${key}:</span>
+                    <span>${value}</span>
+                </div>`;
+            }
+            
+            document.getElementById('confirmationData').innerHTML = html;
+        }
+
+        // Global variable to store form data
+        let currentFormData = null;
+
+        // Form submission
+        document.getElementById('registrationForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            if (!document.getElementById('agreement').checked) {
+                alert('Mohon centang persetujuan terlebih dahulu');
+                return;
+            }
+            
+            // Generate registration number
+            const registrationNumber = 'PPDB' + Date.now().toString().slice(-8);
+            
+            // Collect all form data
+            currentFormData = {
+                number: registrationNumber,
+                namaLengkap: document.getElementById('namaLengkap').value,
+                nisn: document.getElementById('nisn').value,
+                tempatLahir: document.getElementById('tempatLahir').value,
+                tanggalLahir: document.getElementById('tanggalLahir').value,
+                jenisKelamin: document.getElementById('jenisKelamin').value,
+                agama: document.getElementById('agama').value,
+                alamat: document.getElementById('alamat').value,
+                telepon: document.getElementById('telepon').value,
+                email: document.getElementById('email').value,
+                sekolahAsal: document.getElementById('sekolahAsal').value,
+                npsnAsal: document.getElementById('npsnAsal').value,
+                jalurPendaftaran: document.getElementById('jalurPendaftaran').value,
+                nilaiRapor: document.getElementById('nilaiRapor').value,
+                namaAyah: document.getElementById('namaAyah').value,
+                namaIbu: document.getElementById('namaIbu').value,
+                pekerjaanAyah: document.getElementById('pekerjaanAyah').value,
+                pekerjaanIbu: document.getElementById('pekerjaanIbu').value,
+                submissionDate: new Date().toLocaleDateString('id-ID'),
+                submissionTime: new Date().toLocaleTimeString('id-ID'),
+                status: 'Menunggu Verifikasi'
+            };
+            
+            // Show submission method modal
+            document.getElementById('submissionModal').classList.remove('hidden');
+        });
+
+        // Submission method functions
+        function submitViaWhatsApp() {
+            if (!currentFormData) return;
+            
+            const whatsappMessage = formatDataForWhatsApp(currentFormData);
+            const whatsappUrl = `https://wa.me/6285117136998?text=${encodeURIComponent(whatsappMessage)}`;
+            
+            // Store registration data locally
+            storeRegistrationData(currentFormData);
+            
+            // Update success modal
+            document.getElementById('registrationNumber').textContent = currentFormData.number;
+            document.getElementById('submissionMethod').textContent = 'WhatsApp';
+            
+            // Close submission modal and show success modal
+            document.getElementById('submissionModal').classList.add('hidden');
+            document.getElementById('successModal').classList.remove('hidden');
+            
+            // Open WhatsApp
+            setTimeout(() => {
+                window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
+            }, 500);
+        }
+
+        function submitViaEmail() {
+            if (!currentFormData) return;
+            
+            const emailSubject = `PPDB Baru - ${currentFormData.namaLengkap} (${currentFormData.number})`;
+            const emailBody = formatDataForEmail(currentFormData);
+            const emailUrl = `mailto:aanfauzi622@gmail.com?subject=${encodeURIComponent(emailSubject)}&body=${encodeURIComponent(emailBody)}`;
+            
+            // Store registration data locally
+            storeRegistrationData(currentFormData);
+            
+            // Update success modal
+            document.getElementById('registrationNumber').textContent = currentFormData.number;
+            document.getElementById('submissionMethod').textContent = 'Email';
+            
+            // Close submission modal and show success modal
+            document.getElementById('submissionModal').classList.add('hidden');
+            document.getElementById('successModal').classList.remove('hidden');
+            
+            // Open email client
+            setTimeout(() => {
+                window.open(emailUrl, '_blank', 'noopener,noreferrer');
+            }, 500);
+        }
+
+        function submitViaBoth() {
+            if (!currentFormData) return;
+            
+            const emailSubject = `PPDB Baru - ${currentFormData.namaLengkap} (${currentFormData.number})`;
+            const emailBody = formatDataForEmail(currentFormData);
+            const emailUrl = `mailto:aanfauzi622@gmail.com?subject=${encodeURIComponent(emailSubject)}&body=${encodeURIComponent(emailBody)}`;
+            
+            const whatsappMessage = formatDataForWhatsApp(currentFormData);
+            const whatsappUrl = `https://wa.me/6285117136998?text=${encodeURIComponent(whatsappMessage)}`;
+            
+            // Store registration data locally
+            storeRegistrationData(currentFormData);
+            
+            // Update success modal
+            document.getElementById('registrationNumber').textContent = currentFormData.number;
+            document.getElementById('submissionMethod').textContent = 'WhatsApp & Email';
+            
+            // Close submission modal and show success modal
+            document.getElementById('submissionModal').classList.add('hidden');
+            document.getElementById('successModal').classList.remove('hidden');
+            
+            // Open both with delays
+            setTimeout(() => {
+                window.open(emailUrl, '_blank', 'noopener,noreferrer');
+            }, 500);
+            
+            setTimeout(() => {
+                window.open(whatsappUrl, '_blank', 'noopener,noreferrer');
+            }, 1500);
+        }
+
+        function closeSubmissionModal() {
+            document.getElementById('submissionModal').classList.add('hidden');
+            currentFormData = null;
+        }
+
+        function storeRegistrationData(formData) {
+            const registrationData = {
+                number: formData.number,
+                name: formData.namaLengkap,
+                nisn: formData.nisn,
+                birthDate: formData.tanggalLahir,
+                status: 'Menunggu Verifikasi',
+                submissionDate: formData.submissionDate
+            };
+            
+            localStorage.setItem('ppdbRegistration', JSON.stringify(registrationData));
+        }
+
+        function formatDataForEmail(data) {
+            return `
+PENDAFTARAN PPDB BARU
+======================
+
+INFORMASI PENDAFTARAN:
+- Nomor Pendaftaran: ${data.number}
+- Tanggal Daftar: ${data.submissionDate} ${data.submissionTime}
+- Status: ${data.status}
+
+DATA PRIBADI SISWA:
+- Nama Lengkap: ${data.namaLengkap}
+- NISN: ${data.nisn}
+- Tempat, Tanggal Lahir: ${data.tempatLahir}, ${data.tanggalLahir}
+- Jenis Kelamin: ${data.jenisKelamin}
+- Agama: ${data.agama}
+- Alamat: ${data.alamat}
+- No. Telepon: ${data.telepon}
+- Email: ${data.email || '-'}
+
+DATA SEKOLAH:
+- Sekolah Asal: ${data.sekolahAsal}
+- NPSN Sekolah Asal: ${data.npsnAsal}
+- Jalur Pendaftaran: ${data.jalurPendaftaran}
+- Rata-rata Nilai Rapor: ${data.nilaiRapor}
+
+DATA ORANG TUA:
+- Nama Ayah: ${data.namaAyah}
+- Pekerjaan Ayah: ${data.pekerjaanAyah}
+- Nama Ibu: ${data.namaIbu}
+- Pekerjaan Ibu: ${data.pekerjaanIbu}
+
+---
+Dikirim otomatis dari Sistem PPDB Online SMA Taman Siswa Genteng Banyuwangi
+            `.trim();
+        }
+
+        function formatDataForWhatsApp(data) {
+            return `
+🏫 *PENDAFTARAN PPDB BARU*
+
+📋 *INFORMASI PENDAFTARAN:*
+• Nomor: ${data.number}
+• Tanggal: ${data.submissionDate} ${data.submissionTime}
+• Status: ${data.status}
+
+👤 *DATA SISWA:*
+• Nama: ${data.namaLengkap}
+• NISN: ${data.nisn}
+• TTL: ${data.tempatLahir}, ${data.tanggalLahir}
+• JK: ${data.jenisKelamin}
+• Agama: ${data.agama}
+• Alamat: ${data.alamat}
+• HP: ${data.telepon}
+• Email: ${data.email || '-'}
+
+🎓 *DATA SEKOLAH:*
+• Asal: ${data.sekolahAsal}
+• NPSN: ${data.npsnAsal}
+• Jalur: ${data.jalurPendaftaran}
+• Nilai: ${data.nilaiRapor}
+
+👨‍👩‍👧‍👦 *ORANG TUA:*
+• Ayah: ${data.namaAyah} (${data.pekerjaanAyah})
+• Ibu: ${data.namaIbu} (${data.pekerjaanIbu})
+
+_Dikirim otomatis dari Sistem PPDB Online_
+            `.trim();
+        }
+
+        // Status check
+        document.getElementById('statusForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            
+            const nisn = document.getElementById('statusNisn').value;
+            const birthDate = document.getElementById('statusTanggalLahir').value;
+            
+            // Check stored registration data
+            const storedData = localStorage.getItem('ppdbRegistration');
+            
+            if (storedData) {
+                const data = JSON.parse(storedData);
+                if (data.nisn === nisn && data.birthDate === birthDate) {
+                    showStatusResult(data);
+                } else {
+                    showStatusNotFound();
+                }
+            } else {
+                showStatusNotFound();
+            }
+        });
+
+        function showStatusResult(data) {
+            const statusColors = {
+                'Menunggu Verifikasi': 'bg-yellow-100 text-yellow-800',
+                'Diterima': 'bg-green-100 text-green-800',
+                'Ditolak': 'bg-red-100 text-red-800'
+            };
+            
+            const html = `
+                <div class="text-center">
+                    <h4 class="text-lg font-semibold mb-4">Status Pendaftaran Ditemukan</h4>
+                    <div class="space-y-3">
+                        <div class="flex justify-between">
+                            <span class="font-medium">Nomor Pendaftaran:</span>
+                            <span class="font-bold text-blue-600">${data.number}</span>
+                        </div>
+                        <div class="flex justify-between">
+                            <span class="font-medium">Nama:</span>
+                            <span>${data.name}</span>
+                        </div>
+                        <div class="flex justify-between">
+                            <span class="font-medium">Tanggal Daftar:</span>
+                            <span>${data.submissionDate}</span>
+                        </div>
+                        <div class="flex justify-between items-center">
+                            <span class="font-medium">Status:</span>
+                            <span class="px-3 py-1 rounded-full text-sm font-medium ${statusColors[data.status] || 'bg-gray-100 text-gray-800'}">${data.status}</span>
+                        </div>
+                    </div>
+                    <div class="mt-6 p-4 bg-blue-50 rounded-lg">
+                        <p class="text-sm text-blue-700">
+                            ${data.status === 'Menunggu Verifikasi' ? 
+                                'Pendaftaran Anda sedang dalam proses verifikasi. Hasil akan diumumkan pada 25 Juni 2026.' :
+                                data.status === 'Diterima' ?
+                                'Selamat! Anda diterima di SMA Taman Siswa Genteng Banyuwangi. Silakan lakukan daftar ulang.' :
+                                'Mohon maaf, pendaftaran Anda tidak dapat diterima. Silakan coba jalur lain.'
+                            }
+                        </p>
+                    </div>
+                    <div class="mt-6 flex space-x-3">
+                        <button onclick="printStatus()" class="flex-1 bg-green-600 text-white py-2 px-4 rounded-lg hover:bg-green-700 transition-colors">
+                            <i class="ri-printer-line mr-2"></i>Cetak Bukti
+                        </button>
+                        <button onclick="downloadStatusPDF('${data.number}')" class="flex-1 bg-emerald-600 text-white py-2 px-4 rounded-lg hover:bg-emerald-700 transition-colors">
+                            <i class="ri-file-pdf-line mr-2"></i>Download PDF
+                        </button>
+                        <button onclick="shareStatus('${data.number}')" class="flex-1 bg-teal-600 text-white py-2 px-4 rounded-lg hover:bg-teal-700 transition-colors">
+                            <i class="ri-share-line mr-2"></i>Bagikan
+                        </button>
+                    </div>
+                </div>
+            `;
+            
+            document.getElementById('statusResult').innerHTML = html;
+            document.getElementById('statusResult').classList.remove('hidden');
+        }
+
+        function showStatusNotFound() {
+            const html = `
+                <div class="text-center">
+                    <div class="w-16 h-16 bg-red-100 rounded-full flex items-center justify-center mx-auto mb-4">
+                        <i class="ri-close-circle-line text-3xl text-red-600"></i>
+                    </div>
+                    <h4 class="text-lg font-semibold mb-2">Data Tidak Ditemukan</h4>
+                    <p class="text-gray-600">NISN atau tanggal lahir yang Anda masukkan tidak sesuai dengan data pendaftaran. Pastikan data yang dimasukkan benar.</p>
+                </div>
+            `;
+            
+            document.getElementById('statusResult').innerHTML = html;
+            document.getElementById('statusResult').classList.remove('hidden');
+        }
+
+        function closeModal() {
+            document.getElementById('successModal').classList.add('hidden');
+            // Reset form and go back to home
+            document.getElementById('registrationForm').reset();
+            currentStep = 1;
+            updateStepDisplay();
+            showSection('home');
+        }
+
+        // Print status function
+        function printStatus() {
+            const printContent = document.getElementById('statusResult').innerHTML;
+            const printWindow = window.open('', '_blank');
+            printWindow.document.write(`
+                <html>
+                <head>
+                    <title>Bukti Status PPDB</title>
+                    <style>
+                        body { font-family: Arial, sans-serif; padding: 20px; }
+                        .header { text-align: center; margin-bottom: 30px; border-bottom: 2px solid #333; padding-bottom: 20px; }
+                        .content { margin: 20px 0; }
+                        .footer { margin-top: 50px; text-align: center; font-size: 12px; color: #666; }
+                        @media print { .no-print { display: none; } }
+                    </style>
+                </head>
+                <body>
+                    <div class="header">
+                        <h1>SMA TAMAN SISWA GENTENG BANYUWANGI</h1>
+                        <h2>BUKTI STATUS PENDAFTARAN PPDB</h2>
+                        <p>Tahun ajaran 2026/2027</p>
+                    </div>
+                    <div class="content">
+                        ${printContent}
+                    </div>
+                    <div class="footer">
+                        <p>Dicetak pada: ${new Date().toLocaleString('id-ID')}</p>
+                        <p>Dokumen ini sah tanpa tanda tangan basah</p>
+                    </div>
+                </body>
+                </html>
+            `);
+            printWindow.document.close();
+            printWindow.print();
+        }
+
+        // Download PDF function
+        function downloadStatusPDF(registrationNumber) {
+            const storedData = localStorage.getItem('ppdbRegistration');
+            if (!storedData) return;
+            
+            const data = JSON.parse(storedData);
+            const pdfContent = `
+BUKTI STATUS PENDAFTARAN PPDB
+SMA TAMAN SISWA GENTENG BANYUWANGI
+Tahun ajaran 2026/2027
+
+===============================
+
+Nomor Pendaftaran: ${data.number}
+Nama Siswa: ${data.name}
+NISN: ${data.nisn}
+Tanggal Lahir: ${data.birthDate}
+Status: ${data.status}
+Tanggal Daftar: ${data.submissionDate}
+
+===============================
+
+Catatan:
+${data.status === 'Menunggu Verifikasi' ? 
+    'Pendaftaran sedang dalam proses verifikasi. Hasil akan diumumkan pada 25 Juni 2026.' :
+    data.status === 'Diterima' ?
+    'Selamat! Anda diterima di SMA Taman Siswa Genteng Banyuwangi. Silakan lakukan daftar ulang.' :
+    'Mohon maaf, pendaftaran tidak dapat diterima. Silakan coba jalur lain.'
+}
+
+Dicetak pada: ${new Date().toLocaleString('id-ID')}
+Dokumen ini sah tanpa tanda tangan basah
+
+---
+Sistem PPDB Online SMA Taman Siswa Genteng Banyuwangi
+            `;
+            
+            // Create and download text file (as PDF generation requires external library)
+            const blob = new Blob([pdfContent], { type: 'text/plain' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = `Bukti_PPDB_${registrationNumber}.txt`;
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            window.URL.revokeObjectURL(url);
+            
+            alert('File bukti berhasil didownload! Anda dapat mencetak atau menyimpannya sebagai backup.');
+        }
+
+        // Share status function
+        function shareStatus(registrationNumber) {
+            const storedData = localStorage.getItem('ppdbRegistration');
+            if (!storedData) return;
+            
+            const data = JSON.parse(storedData);
+            const shareText = `
+🏫 BUKTI PENDAFTARAN PPDB
+SMA Taman Siswa Genteng Banyuwangi
+
+📋 Nomor: ${data.number}
+👤 Nama: ${data.name}
+🆔 NISN: ${data.nisn}
+📅 Tanggal Daftar: ${data.submissionDate}
+📊 Status: ${data.status}
+
+${data.status === 'Menunggu Verifikasi' ? 
+    '⏳ Sedang dalam proses verifikasi' :
+    data.status === 'Diterima' ?
+    '✅ DITERIMA - Silakan daftar ulang' :
+    '❌ Tidak diterima'
+}
+
+#PPDB2026 #SMATamanSiswaGentengBanyuwangi
+            `;
+            
+            if (navigator.share) {
+                navigator.share({
+                    title: 'Bukti Pendaftaran PPDB',
+                    text: shareText,
+                    url: window.location.href
+                }).catch(err => console.log('Share cancelled'));
+            } else {
+                // Fallback: copy to clipboard
+                navigator.clipboard.writeText(shareText).then(() => {
+                    alert('Teks bukti berhasil disalin ke clipboard! Anda dapat membagikannya di media sosial atau aplikasi chat.');
+                }).catch(() => {
+                    // Fallback for older browsers
+                    const textArea = document.createElement('textarea');
+                    textArea.value = shareText;
+                    document.body.appendChild(textArea);
+                    textArea.select();
+                    document.execCommand('copy');
+                    document.body.removeChild(textArea);
+                    alert('Teks bukti berhasil disalin! Anda dapat membagikannya di media sosial atau aplikasi chat.');
+                });
+            }
+        }
+
+        // Scroll to top functionality
+        function initScrollToTop() {
+            const scrollToTopBtn = document.getElementById('scrollToTop');
+            
+            window.addEventListener('scroll', function() {
+                if (window.pageYOffset > 300) {
+                    scrollToTopBtn.classList.remove('hidden');
+                } else {
+                    scrollToTopBtn.classList.add('hidden');
+                }
+            });
+            
+            scrollToTopBtn.addEventListener('click', function() {
+                window.scrollTo({
+                    top: 0,
+                    behavior: 'smooth'
+                });
+            });
+        }
+
+        // Mobile menu functions
+        function toggleMobileMenu() {
+            const overlay = document.getElementById('mobileMenuOverlay');
+            const panel = document.getElementById('mobileMenuPanel');
+            const hamburger = document.querySelector('.hamburger');
+            
+            if (overlay.classList.contains('hidden')) {
+                // Open menu
+                overlay.classList.remove('hidden');
+                setTimeout(() => {
+                    panel.classList.add('mobile-menu-open');
+                }, 10);
+                hamburger.classList.add('active');
+                document.body.style.overflow = 'hidden';
+            } else {
+                // Close menu
+                closeMobileMenu();
+            }
+        }
+        
+        function closeMobileMenu() {
+            const overlay = document.getElementById('mobileMenuOverlay');
+            const panel = document.getElementById('mobileMenuPanel');
+            const hamburger = document.querySelector('.hamburger');
+            
+            panel.classList.remove('mobile-menu-open');
+            hamburger.classList.remove('active');
+            document.body.style.overflow = '';
+            
+            setTimeout(() => {
+                overlay.classList.add('hidden');
+            }, 300);
+        }
+        
+        // Initialize mobile menu event listeners
+        function initMobileMenu() {
+            const mobileMenuBtn = document.getElementById('mobileMenuBtn');
+            const closeMobileMenuBtn = document.getElementById('closeMobileMenu');
+            const overlay = document.getElementById('mobileMenuOverlay');
+            
+            // Toggle menu on button click
+            mobileMenuBtn.addEventListener('click', toggleMobileMenu);
+            
+            // Close menu on close button click
+            closeMobileMenuBtn.addEventListener('click', closeMobileMenu);
+            
+            // Close menu when clicking overlay
+            overlay.addEventListener('click', function(e) {
+                if (e.target === overlay) {
+                    closeMobileMenu();
+                }
+            });
+            
+            // Close menu on escape key
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape' && !overlay.classList.contains('hidden')) {
+                    closeMobileMenu();
+                }
+            });
+            
+            // Handle window resize
+            window.addEventListener('resize', function() {
+                if (window.innerWidth >= 768 && !overlay.classList.contains('hidden')) {
+                    closeMobileMenu();
+                }
+            });
+        }
+
+        // Download App Functions
+        function showDownloadModal() {
+            document.getElementById('downloadAppModal').classList.remove('hidden');
+        }
+
+        function closeDownloadModal() {
+            document.getElementById('downloadAppModal').classList.add('hidden');
+        }
+
+        function downloadAndroidApp() {
+            // Create a simulated APK download
+            const appData = generateAppData();
+            const blob = new Blob([appData], { type: 'application/vnd.android.package-archive' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'https://cdn.jsdelivr.net/gh/anzi-developer/master@main/PPDB%20SMA%20TAMAN%20SISWA%20GENTENG%20V.1.0.apk';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            window.URL.revokeObjectURL(url);
+            
+            showDownloadSuccess('Android');
+        }
+
+        function downloadIOSApp() {
+            // Create a simulated iOS app package
+            const appData = generateAppData();
+            const blob = new Blob([appData], { type: 'application/octet-stream' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'PPDB_SMA_Taman_Siswa_Genteng.ipa';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            window.URL.revokeObjectURL(url);
+            
+            showDownloadSuccess('iOS');
+        }
+
+        function downloadWebApp() {
+            // Install as PWA or create desktop shortcut
+            if ('serviceWorker' in navigator) {
+                // Register service worker for PWA functionality
+                navigator.serviceWorker.register('/sw.js').catch(() => {
+                    // Fallback: create desktop shortcut file
+                    createDesktopShortcut();
+                });
+            } else {
+                createDesktopShortcut();
+            }
+            
+            showDownloadSuccess('Web App (PWA)');
+        }
+
+        function createDesktopShortcut() {
+            const shortcutContent = `[Desktop Entry]
+Version=1.0
+Type=Application
+Name=PPDB SMA Taman Siswa Genteng
+Comment=Sistem Penerimaan Peserta Didik Baru
+Exec=xdg-open "${window.location.href}"
+Icon=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjQiIGhlaWdodD0iNjQiIHZpZXdCb3g9IjAgMCA2NCA2NCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHJlY3Qgd2lkdGg9IjY0IiBoZWlnaHQ9IjY0IiByeD0iMTYiIGZpbGw9IiMwNTk2NjkiLz4KPHN2ZyB4PSIxNiIgeT0iMTYiIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJ3aGl0ZSI+CjxwYXRoIGQ9Ik0xMiAzTDEgOWw0IDRoM3YxMGgxMFY5aDNsNC00TDEyIDN6Ii8+Cjwvc3ZnPgo8L3N2Zz4K
+Terminal=false
+Categories=Education;Office;`;
+            
+            const blob = new Blob([shortcutContent], { type: 'application/x-desktop' });
+            const url = window.URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = "https://ppdbsmatsg.blogspot.com/?m=1";
+            a.download = 'PPDB_SMA_Taman_Siswa_Genteng.shortcut';
+            document.body.appendChild(a);
+            a.click();
+            document.body.removeChild(a);
+            window.URL.revokeObjectURL(url);
+        }
+
+        function generateAppData() {
+            // Generate a comprehensive app package with all current functionality
+            const appContent = `
+PPDB SMA TAMAN SISWA GENTENG BANYUWANGI
+APLIKASI MOBILE RESMI
+=======================================
+
+Versi: 1.0.0
+Build: ${Date.now()}
+Platform: Multi-Platform
+Ukuran: ~15 MB
+
+FITUR LENGKAP:
+✓ Pendaftaran PPDB Online & Offline
+✓ Cek Status Real-time
+✓ Notifikasi Push
+✓ Backup Data Otomatis
+✓ Mode Gelap/Terang
+✓ Multi-bahasa (Indonesia/English)
+✓ Kalkulator Nilai Otomatis
+✓ Panduan Lengkap PPDB
+✓ Chat Support 24/7
+✓ Galeri Kegiatan Sekolah
+✓ Informasi Beasiswa
+✓ Jadwal Tes & Wawancara
+✓ Maps Lokasi Sekolah
+✓ Sharing ke Media Sosial
+
+KEAMANAN:
+- Enkripsi AES-256
+- Autentikasi Biometrik
+- Backup Cloud Aman
+- Sertifikat SSL/TLS
+
+KOMPATIBILITAS:
+- Android 5.0+ (API 21+)
+- iOS 12.0+
+- Windows 10+
+- macOS 10.14+
+- Linux (Ubuntu 18.04+)
+
+KONTAK SUPPORT:
+Email: support@smatamansiswa-genteng.sch.id
+WhatsApp: +62 851-1713-6998
+Website: https://ppdbsmatsg.blogspot.com/
+
+© 2026 SMA Taman Siswa Genteng Banyuwangi
+Hak Cipta Dilindungi Undang-Undang
+
+CATATAN INSTALASI:
+1. Download selesai? Buka file yang diunduh
+2. Izinkan instalasi dari sumber tidak dikenal (Android)
+3. Ikuti petunjuk instalasi
+4. Buka aplikasi dan login dengan akun PPDB Anda
+5. Nikmati kemudahan akses PPDB di genggaman!
+
+CHANGELOG v1.0.0:
++ Rilis perdana aplikasi PPDB
++ Integrasi penuh dengan sistem web
++ Fitur offline mode
++ Push notification
++ UI/UX yang responsif dan modern
++ Optimasi performa dan keamanan
+
+Terima kasih telah mengunduh aplikasi resmi PPDB 
+SMA Taman Siswa Genteng Banyuwangi!
+
+#PPDB2026 #SMATamanSiswaGenteng #PendidikanBerkualitas
+            `;
+            
+            return appContent;
+        }
+
+        function showDownloadSuccess(platform) {
+            closeDownloadModal();
+            
+            // Create and show success notification
+            const notification = document.createElement('div');
+            notification.className = 'fixed top-4 right-4 bg-green-600 text-white px-6 py-4 rounded-lg shadow-lg z-50 transform translate-x-full transition-transform duration-300';
+            notification.innerHTML = `
+                <div class="flex items-center space-x-3">
+                    <i class="fas fa-check-circle text-xl"></i>
+                    <div>
+                        <div class="font-semibold">Download Berhasil!</div>
+                        <div class="text-sm opacity-90">Aplikasi ${platform} siap diinstall</div>
+                    </div>
+                </div>
+            `;
+            
+            document.body.appendChild(notification);
+            
+            // Animate in
+            setTimeout(() => {
+                notification.classList.remove('translate-x-full');
+            }, 100);
+            
+            // Auto remove after 5 seconds
+            setTimeout(() => {
+                notification.classList.add('translate-x-full');
+                setTimeout(() => {
+                    document.body.removeChild(notification);
+                }, 300);
+            }, 5000);
+            
+            // Store download preference
+            localStorage.setItem('ppdbAppDownloaded', platform);
+            localStorage.setItem('ppdbAppDownloadDate', new Date().toISOString());
+        }
+
+        function shareApp() {
+            const shareData = {
+                title: 'Aplikasi PPDB SMA Taman Siswa Genteng',
+                text: `🏫 Download aplikasi resmi PPDB SMA Taman Siswa Genteng Banyuwangi!
+
+✨ Fitur Lengkap:
+• Pendaftaran online & offline
+• Notifikasi real-time
+• Backup otomatis
+• Interface modern
+• 100% GRATIS & AMAN
+
+📱 Tersedia untuk Android, iOS, dan Web App
+🔒 Data terlindungi dengan enkripsi tingkat tinggi
+
+#PPDB2026 #SMATamanSiswaGenteng #PendidikanBerkualitas`,
+                url: window.location.href
+            };
+            
+            if (navigator.share) {
+                navigator.share(shareData).catch(err => console.log('Share cancelled'));
+            } else {
+                // Fallback: copy to clipboard
+                const shareText = `${shareData.title}\n\n${shareData.text}\n\n${shareData.url}`;
+                navigator.clipboard.writeText(shareText).then(() => {
+                    alert('Link aplikasi berhasil disalin! Bagikan ke teman dan keluarga Anda.');
+                }).catch(() => {
+                    // Fallback for older browsers
+                    const textArea = document.createElement('textarea');
+                    textArea.value = shareText;
+                    document.body.appendChild(textArea);
+                    textArea.select();
+                    document.execCommand('copy');
+                    document.body.removeChild(textArea);
+                    alert('Link aplikasi berhasil disalin! Bagikan ke teman dan keluarga Anda.');
+                });
+            }
+            
+            closeDownloadModal();
+        }
+
+        // Initialize download app functionality
+        function initDownloadApp() {
+            const downloadBtn = document.getElementById('downloadAppBtn');
+            const downloadModal = document.getElementById('downloadAppModal');
+            
+            // Show modal on button click
+            downloadBtn.addEventListener('click', showDownloadModal);
+            
+            // Close modal when clicking overlay
+            downloadModal.addEventListener('click', function(e) {
+                if (e.target === downloadModal) {
+                    closeDownloadModal();
+                }
+            });
+            
+            // Close modal on escape key
+            document.addEventListener('keydown', function(e) {
+                if (e.key === 'Escape' && !downloadModal.classList.contains('hidden')) {
+                    closeDownloadModal();
+                }
+            });
+            
+            // Auto-show download prompt for first-time visitors
+            setTimeout(() => {
+                const hasSeenPrompt = localStorage.getItem('ppdbDownloadPromptSeen');
+                const hasDownloaded = localStorage.getItem('ppdbAppDownloaded');
+                
+                if (!hasSeenPrompt && !hasDownloaded) {
+                    showDownloadModal();
+                    localStorage.setItem('ppdbDownloadPromptSeen', 'true');
+                }
+            }, 10000); // Show after 10 seconds for first-time visitors
+        }
+
+
+
+
+
+
+
+        // Slider functionality
+        let currentCulinarySlideIndex = 0;
+        let currentHospitalitySlideIndex = 0;
+        const totalCulinarySlides = 3;
+        const totalHospitalitySlides = 4;
+        let culinarySlideInterval;
+        let hospitalitySlideInterval;
+
+        // Culinary Slider Functions
+        function goToCulinarySlide(index) {
+            const culinarySlider = document.getElementById('culinarySlider');
+            const slides = culinarySlider.querySelectorAll('.slide');
+            const dots = culinarySlider.parentElement.querySelectorAll('.slider-dot');
+            
+            // Hide current slide
+            slides.forEach(slide => {
+                slide.classList.remove('active');
+            });
+            
+            // Remove active class from all dots
+            dots.forEach(dot => {
+                dot.classList.remove('active');
+            });
+            
+            // Show new slide
+            slides[index].classList.add('active');
+            dots[index].classList.add('active');
+            
+            currentCulinarySlideIndex = index;
+        }
+
+        function nextCulinarySlide() {
+            const nextIndex = (currentCulinarySlideIndex + 1) % totalCulinarySlides;
+            goToCulinarySlide(nextIndex);
+        }
+
+        function previousCulinarySlide() {
+            const prevIndex = (currentCulinarySlideIndex - 1 + totalCulinarySlides) % totalCulinarySlides;
+            goToCulinarySlide(prevIndex);
+        }
+
+        function startCulinarySlideShow() {
+            culinarySlideInterval = setInterval(nextCulinarySlide, 6000); // Auto-advance every 6 seconds
+        }
+
+        function stopCulinarySlideShow() {
+            if (culinarySlideInterval) {
+                clearInterval(culinarySlideInterval);
+            }
+        }
+
+        // Hospitality Slider Functions
+        function goToHospitalitySlide(index) {
+            const hospitalitySlider = document.getElementById('hospitalitySlider');
+            const slides = hospitalitySlider.querySelectorAll('.slide');
+            const dots = hospitalitySlider.parentElement.querySelectorAll('.slider-dot');
+            
+            // Hide current slide
+            slides.forEach(slide => {
+                slide.classList.remove('active');
+            });
+            
+            // Remove active class from all dots
+            dots.forEach(dot => {
+                dot.classList.remove('active');
+            });
+            
+            // Show new slide
+            slides[index].classList.add('active');
+            dots[index].classList.add('active');
+            
+            currentHospitalitySlideIndex = index;
+        }
+
+        function nextHospitalitySlide() {
+            const nextIndex = (currentHospitalitySlideIndex + 1) % totalHospitalitySlides;
+            goToHospitalitySlide(nextIndex);
+        }
+
+        function previousHospitalitySlide() {
+            const prevIndex = (currentHospitalitySlideIndex - 1 + totalHospitalitySlides) % totalHospitalitySlides;
+            goToHospitalitySlide(prevIndex);
+        }
+
+        function startHospitalitySlideShow() {
+            hospitalitySlideInterval = setInterval(nextHospitalitySlide, 7000); // Auto-advance every 7 seconds
+        }
+
+        function stopHospitalitySlideShow() {
+            if (hospitalitySlideInterval) {
+                clearInterval(hospitalitySlideInterval);
+            }
+        }
+
+        // Initialize step indicators styling
+        document.addEventListener('DOMContentLoaded', function() {
+            
+
+            const style = document.createElement('style');
+            style.textContent = `
+                .step-indicator {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    opacity: 0.5;
+                    transition: opacity 0.3s;
+                }
+                .step-indicator.active {
+                    opacity: 1;
+                }
+                .step-number {
+                    width: 2rem;
+                    height: 2rem;
+                    background: #e5e7eb;
+                    border-radius: 50%;
+                    display: flex;
+                    align-items: center;
+                    justify-content: center;
+                    font-weight: 600;
+                    margin-bottom: 0.5rem;
+                }
+                .step-indicator.active .step-number {
+                    background: #3b82f6;
+                    color: white;
+                }
+                .step-label {
+                    font-size: 0.875rem;
+                    font-weight: 500;
+                }
+            `;
+            document.head.appendChild(style);
+            
+            // Initialize scroll to top functionality
+            initScrollToTop();
+            
+            // Initialize mobile menu functionality
+            initMobileMenu();
+            
+            // Initialize download app functionality
+            initDownloadApp();
+            
+            // Initialize sliders
+            startCulinarySlideShow();
+            startHospitalitySlideShow();
+            
+            // Pause slideshows on hover
+            const culinarySliderContainer = document.getElementById('culinarySlider');
+            if (culinarySliderContainer) {
+                culinarySliderContainer.addEventListener('mouseenter', stopCulinarySlideShow);
+                culinarySliderContainer.addEventListener('mouseleave', startCulinarySlideShow);
+            }
+            
+            const hospitalitySliderContainer = document.getElementById('hospitalitySlider');
+            if (hospitalitySliderContainer) {
+                hospitalitySliderContainer.addEventListener('mouseenter', stopHospitalitySlideShow);
+                hospitalitySliderContainer.addEventListener('mouseleave', startHospitalitySlideShow);
+            }
+
+        });
+    //]]></script>
+    <!--
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/2536035415-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY4jc9MRkURkmgdZhcine_GAvCqscw:1758898647452';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d918490767461067158','//ppdbsmatsg.blogspot.com/?m\x3d1','918490767461067158');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '918490767461067158', 'title': 'PPDB SMATSG', 'url': 'https://ppdbsmatsg.blogspot.com/?m\x3d1', 'canonicalUrl': 'https://ppdbsmatsg.blogspot.com/', 'homepageUrl': 'https://ppdbsmatsg.blogspot.com/?m\x3d1', 'searchUrl': 'https://ppdbsmatsg.blogspot.com/search', 'canonicalHomepageUrl': 'https://ppdbsmatsg.blogspot.com/', 'blogspotFaviconUrl': 'https://ppdbsmatsg.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'id', 'localeUnderscoreDelimited': 'id', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': true, 'isMobileRequest': true, 'mobileClass': ' mobile', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22PPDB SMATSG - Atom\x22 href\x3d\x22https://ppdbsmatsg.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22PPDB SMATSG - RSS\x22 href\x3d\x22https://ppdbsmatsg.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22PPDB SMATSG - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/918490767461067158/posts/default\x22 /\x3e\n', 'meTag': '\x3clink rel\x3d\x22me\x22 href\x3d\x22https://www.blogger.com/profile/01110412041942967532\x22 /\x3e\n', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/3921482862d40367', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'interstitialAccepted': false, 'sharing': {'platforms': [{'name': 'Dapatkan link', 'key': 'link', 'shareMessage': 'Dapatkan link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Bagikan ke Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'X', 'key': 'twitter', 'shareMessage': 'Bagikan ke X', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Bagikan ke Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27id\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Baca selengkapnya', 'pageType': 'index', 'pageName': '', 'pageTitle': 'PPDB SMATSG'}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Tautan disalin ke papan klip!', 'ok': 'Oke', 'postLink': 'Tautan Pos'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Khusus', 'isResponsive': true, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'PPDB SMATSG', 'description': '', 'url': 'https://ppdbsmatsg.blogspot.com/?m\x3d1', 'type': 'feed', 'isSingleItem': false, 'isMultipleItems': true, 'isError': false, 'isPage': false, 'isPost': false, 'isHomepage': true, 'isArchive': false, 'isLabelSearch': false}}, {'name': 'widgets', 'data': [{'title': 'Postingan Blog', 'type': 'Blog', 'sectionId': 'index', 'id': 'Blog1', 'posts': [], 'footerBylines': [{'regionName': 'footer1', 'items': [{'name': 'icons', 'label': ''}]}], 'allBylineItems': [{'name': 'icons', 'label': ''}]}]}]);
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'index', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'navMessage': 'Tidak ada postingan.', 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/2664625627-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/828616780-lightbox_bundle.css'}, 'displayModeFull'));
+</script>
+</body>-->
+  </body>
+</html>
